@@ -1,0 +1,147 @@
+# Toadfish RNA Exploration
+- Using toadfish reference here: https://zenodo.org/records/10246873 
+- Goal: Using RNA reads capturing the host and microbial expression, search for genes associated with calcium carbonate deposition
+## Host-guided RNA Transcriptome Mapping
+- Trim Reads
+```
+cd /Volumes/AMB_SSD1/toadfish_rna/host_rna/raw
+ls *_1.fq.gz > samples.txt
+samples=samples.txt
+for samp in `cat ${samples}`
+do
+trim_galore --gzip --fastqc --paired ${samp}_1.fq.gz ${samp}_2.fq.gz 
+done
+```
+- remove ribosomal RNA
+```
+wget https://github.com/biocore/sortmerna/releases/download/v4.3.4/database.tar.gz
+conda config --add channels defaults
+conda config --add channels bioconda
+conda config --add channels conda-forge
+conda config --set channel_priority strict
+conda create --name sortmerna_env
+conda activate sortmerna_env
+conda install sortmerna
+```
+Run script on Cedar (Compute Canada)
+```
+source /home/abonacol/scratch/miniconda3/etc/profile.d/conda.sh
+conda activate sortmerna_env
+cd /home/abonacol/scratch/toadfish
+samples=samples.txt
+for samp in `cat ${samples}`
+do
+mkdir ${samp}
+sortmerna --ref /home/abonacol/scratch/databases/smr_v4.3_default_db.fasta --reads ${samp}_1_val_1.fq.gz --reads ${samp}_2_val_2.fq.gz --fastx --aligned --other --blast --out2 --sout --workdir ${samp}
+done
+```
+- move and rename files
+```
+cd /home/abonacol/scratch/toadfish
+samples=samples.txt
+mkdir sortmerna_output
+for samp in `cat ${samples}`
+do
+cd ${samp}/out
+mv aligned_paired_fwd.fq.gz ${samp}_aligned_paired_fwd.fq.gz
+mv aligned_paired_rev.fq.gz ${samp}_aligned_paired_rev.fq.gz
+mv other_paired_fwd.fq.gz ${samp}_other_paired_fwd.fq.gz
+mv other_paired_rev.fq.gz ${samp}_other_paired_rev.fq.gz 
+cp ${samp}_aligned_paired_fwd.fq.gz /home/abonacol/scratch/toadfish/sortmerna_output
+cp ${samp}_aligned_paired_rev.fq.gz /home/abonacol/scratch/toadfish/sortmerna_output
+cp ${samp}_other_paired_fwd.fq.gz /home/abonacol/scratch/toadfish/sortmerna_output
+cp ${samp}_other_paired_rev.fq.gz /home/abonacol/scratch/toadfish/sortmerna_output
+cd ../..
+done
+```
+- Now create a reference genome for alignment
+```
+module load star
+cd /home/abonacol/scratch/toadfish
+STAR --runThreadN 14 \
+--runMode genomeGenerate \
+--genomeDir NK_toadfish \
+--genomeFastaFiles Opsanus_beta_Bic.scaffolds.fa \
+--sjdbGTFfile Opsanus_beta_Bic.gtf \
+--sjdbOverhang 149
+```
+- align the reads to this reference genome
+```
+module load star
+cd /home/abonacol/scratch/toadfish/sortmerna_output
+
+STAR --runMode alignReads --quantMode GeneCounts --genomeDir /home/abonacol/scratch/toadfish/NK_toadfish \
+--readFilesCommand zcat --outFileNamePrefix T13_ --readFilesIn T13_RNA_other_paired_fwd.fq.gz T13_RNA_other_paired_rev.fq.gz \
+--runThreadN 14 --outSAMunmapped Within --outSAMattributes Standard 
+
+STAR --runMode alignReads --quantMode GeneCounts --genomeDir /home/abonacol/scratch/toadfish/NK_toadfish \
+--readFilesCommand zcat --outFileNamePrefix T14_ --readFilesIn T14_RNA_other_paired_fwd.fq.gz T14_RNA_other_paired_rev.fq.gz \
+--runThreadN 14 --outSAMunmapped Within --outSAMattributes Standard 
+
+STAR --runMode alignReads --quantMode GeneCounts --genomeDir /home/abonacol/scratch/toadfish/NK_toadfish \
+--readFilesCommand zcat --outFileNamePrefix T15_ --readFilesIn T15_RNA_other_paired_fwd.fq.gz T15_RNA_other_paired_rev.fq.gz \
+--runThreadN 14 --outSAMunmapped Within --outSAMattributes Standard 
+
+STAR --runMode alignReads --quantMode GeneCounts --genomeDir /home/abonacol/scratch/toadfish/NK_toadfish \
+--readFilesCommand zcat --outFileNamePrefix T1_ --readFilesIn T1_RNA_other_paired_fwd.fq.gz T1_RNA_other_paired_rev.fq.gz \
+--runThreadN 14 --outSAMunmapped Within --outSAMattributes Standard 
+
+STAR --runMode alignReads --quantMode GeneCounts --genomeDir /home/abonacol/scratch/toadfish/NK_toadfish \
+--readFilesCommand zcat --outFileNamePrefix T25_ --readFilesIn T25_RNA_other_paired_fwd.fq.gz T25_RNA_other_paired_rev.fq.gz \
+--runThreadN 14 --outSAMunmapped Within --outSAMattributes Standard 
+
+STAR --runMode alignReads --quantMode GeneCounts --genomeDir /home/abonacol/scratch/toadfish/NK_toadfish \
+--readFilesCommand zcat --outFileNamePrefix T26_ --readFilesIn T26_RNA_other_paired_fwd.fq.gz T26_RNA_other_paired_rev.fq.gz \
+--runThreadN 14 --outSAMunmapped Within --outSAMattributes Standard 
+```
+## Denovo microbial metagenome
+- Going to assemble at bacterial reads de-novo with Spades and annotate with emapper.
+````
+spades.py --rna -1 toadfish_R1.fq.gz -2 toadfish_R2.fq.gz -o toadfish_prok__spades -t 4
+````
+-- Generate metaproteome.
+```
+for f in *.fa;
+do TransDecoder.LongOrfs -t $f;
+done
+for b in *fa.transdecoder_dir/longest_orfs.pep;
+do blastp -query $b -db /Data/databases/uniprot_sprot_blast/uniprot_sprot.fasta.blastDB -max_target_seqs 1 -outfmt 6 -evalue 1e-5 -num_threads 5 > $b.blastp.out;
+done
+for p in *fa.transdecoder_dir/longest_orfs.pep;
+do hmmscan --cpu 8 --domtblout $p.pfam.domtblout /Data/databases/pfam/Pfam-A.hmm $p;
+done
+for f in *.fa;
+do TransDecoder.Predict -t $f --retain_blastp_hits $f.transdecoder_dir/longest_orfs.pep.blastp.out --retain_pfam_hits $f.transdecoder_dir/longest_orfs.pep.pfam.domtblout;
+done
+```
+- Ran emapper online and found a urease. Going to assemble the host one in the same way and search for all genes below in both!
+-- Build trees
+```
+for i in *.fa ; do linsi --thread 15 $i > "$i".linsi ; done 
+for i in *.linsi ; do trimal -in $i -out $i.trimal -gt 0.8 ; done
+for i in *.trimal ; do seqkit rmdup -n -i $i -o $i.nodup ; done
+for i in *.nodup ; do FastTree $i > "$i".fasttree ; done
+```
+# HMM Profiles for Urease Genes
+- Genrate fastas from UniProt
+- Run HMM
+- Pull out positives and run blast to check
+Urease genes: ureDABCEFG
+```
+for f in *.fa;
+do linsi --thread 2 $f > $f.linsi;
+done 
+for f in *.linsi; do
+    hmmbuild ../hmms/"${f%.linsi}.hmm" "$f"
+done
+cd ../hmms
+for i in *hmm; do hmmsearch -E 1e-2 --incE 1e-3 --domE 1e-3 --tblout $i.table $i ../toadfish_prok__spades.fa.transdecoder.pep > $i.out; done
+for hits in *.table; do /Data/ina/scripts/faSomeRecords ../toadfish_prok__spades.fa.transdecoder.pep $hits $hits.fasta; done
+```
+Urease G is the only hit, apparently a paralog of HypB, another nickel-binding GTPase
+now try host reads....
+```
+for i in *hmm; do hmmsearch -E 1e-2 --incE 1e-3 --domE 1e-3 --tblout $i.host.table $i ../toadfish_euk_spades.fa.transdecoder.pep   > $i.host.out; done
+for hits in *host.table; do /Data/ina/scripts/faSomeRecords ../toadfish_euk_spades.fa.transdecoder.pep $hits $hits.host.fasta; done
+```
+

@@ -1,0 +1,41 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  ureA.fa.hmm
+# target sequence database:        /Volumes/AMB_SSD1/toadfish_rna/prok_rna/toadfish_prok__spades.fa.transdecoder.pep
+# per-seq hits tabular output:     ureA.fa.hmm.table
+# sequence reporting threshold:    E-value <= 1e-05
+# domain reporting threshold:      E-value <= 0.001
+# sequence inclusion threshold:    E-value <= 0.001
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       ureA.fa  [M=209]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (209 nodes)
+Target sequences:                      40629  (9129786 residues searched)
+Passed MSV filter:                       709  (0.0174506); expected 812.6 (0.02)
+Passed bias filter:                      580  (0.0142755); expected 812.6 (0.02)
+Passed Vit filter:                        41  (0.00100913); expected 40.6 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.4 (1e-05)
+Initial search space (Z):              40629  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.11u 0.05s 00:00:00.16 Elapsed: 00:00:00.22
+# Mc/sec: 8311.69
+//
+[ok]

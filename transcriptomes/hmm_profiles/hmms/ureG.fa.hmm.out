@@ -1,0 +1,55 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  ureG.fa.hmm
+# target sequence database:        /Volumes/AMB_SSD1/toadfish_rna/prok_rna/toadfish_prok__spades.fa.transdecoder.pep
+# per-seq hits tabular output:     ureG.fa.hmm.table
+# sequence reporting threshold:    E-value <= 1e-05
+# domain reporting threshold:      E-value <= 0.001
+# sequence inclusion threshold:    E-value <= 0.001
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       ureG.fa  [M=209]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                                        Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                                        -----------
+    7.7e-09   36.4   0.0    8.3e-09   36.3   0.0    1.0  1  NODE_45933_length_437_cov_3.848901_g43392_i0.p1  GENE.NODE_45933_length_437_cov_3
+
+
+Domain annotation for each sequence (and alignments):
+>> NODE_45933_length_437_cov_3.848901_g43392_i0.p1  GENE.NODE_45933_length_437_cov_3.848901_g43392_i0~~NODE_45933_length
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.3   0.0     2e-13   8.3e-09      95     199 ..      16     120 ..       3     124 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 36.3 bits;  conditional E-value: 2e-13
+                                          ureG.fa  95 keldvvliesgGdnLsatfsPel.adltiyviDvaaGekiPrkgGpgitksDllvinkidla 155
+                                                      ++ld+ ++e  G nL    s ++ +   i ++ + +G++  +k   + +++Dl++i+k dl 
+  NODE_45933_length_437_cov_3.848901_g43392_i0.p1  16 EKLDICFVENVG-NLVCPASYDVgTHKNIVLVSIPEGDDKIEKYPVMFRRADLVLITKCDLM 76 
+                                                      789*********.**********566789999****************************** PP
+
+                                          ureG.fa 156 plvgaslevmerdakkmrkekpfvftnlkegkgleeiidfivke 199
+                                                      p+ + ++e   ++ +k+++e   +  ++k+ + l+ ++++++++
+  NODE_45933_length_437_cov_3.848901_g43392_i0.p1  77 PYFDFDMEDAYAQLRKLNPEVEVMQISVKDIDTLKPLAQWLQNN 120
+                                                      ******************************99999999998765 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (209 nodes)
+Target sequences:                      40629  (9129786 residues searched)
+Passed MSV filter:                      1373  (0.0337936); expected 812.6 (0.02)
+Passed bias filter:                     1160  (0.028551); expected 812.6 (0.02)
+Passed Vit filter:                       297  (0.00731005); expected 40.6 (0.001)
+Passed Fwd filter:                        38  (0.000935293); expected 0.4 (1e-05)
+Initial search space (Z):              40629  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.18u 0.02s 00:00:00.20 Elapsed: 00:00:00.07
+# Mc/sec: 24602.92
+//
+[ok]

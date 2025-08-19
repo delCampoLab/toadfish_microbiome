@@ -1,0 +1,14 @@
+#                                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                   accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                           ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NODE_45933_length_437_cov_3.848901_g43392_i0.p1 -          ureG.fa              -            7.7e-09   36.4   0.0   8.3e-09   36.3   0.0   1.0   1   0   0   1   1   1   1 GENE.NODE_45933_length_437_cov_3.848901_g43392_i0~~NODE_45933_length_437_cov_3.848901_g43392_i0.p1  ORF type:5prime_partial len:125 (-),score=4.84,P31880|42.742|6.58e-32,cobW|PF02492.22|8.6e-10,RsgA_GTPase|PF03193.19|0.19 NODE_45933_length_437_cov_3.848901_g43392_i0:61-435(-)
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ureG.fa.hmm
+# Target file:     /Volumes/AMB_SSD1/toadfish_rna/prok_rna/toadfish_prok__spades.fa.transdecoder.pep
+# Option settings: hmmsearch --tblout ureG.fa.hmm.table -E 1e-5 --domE 1e-3 --incE 1e-3 ureG.fa.hmm /Volumes/AMB_SSD1/toadfish_rna/prok_rna/toadfish_prok__spades.fa.transdecoder.pep 
+# Current dir:     /Volumes/AMB_SSD1/toadfish_rna/hmm_profiles/hmms
+# Date:            Thu Apr 10 09:24:18 2025
+# [ok]

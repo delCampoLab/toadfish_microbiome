@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      ureB.fa.hmm
+# Target file:     /Volumes/AMB_SSD1/toadfish_rna/prok_rna/toadfish_prok__spades.fa.transdecoder.pep
+# Option settings: hmmsearch --tblout ureB.fa.hmm.table -E 1e-5 --domE 1e-3 --incE 1e-3 ureB.fa.hmm /Volumes/AMB_SSD1/toadfish_rna/prok_rna/toadfish_prok__spades.fa.transdecoder.pep 
+# Current dir:     /Volumes/AMB_SSD1/toadfish_rna/hmm_profiles/hmms
+# Date:            Thu Apr 10 09:24:18 2025
+# [ok]
