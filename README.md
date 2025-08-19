@@ -26,7 +26,7 @@ microbiome/
         ├── completed/             # Finished analyses
         ├── redo/                  # Corrected Datasets
         └── trees/                 # Phylogenetic trees
-
+```
 
 ## 🔬 Analyses
 
@@ -39,6 +39,6 @@ microbiome/
 - Subfolders include SGT and hmm analysis and search for urease genes
 
 
-📧 Contact
+## 📧 Contact
 
 If you have questions or suggestions, feel free to reach out to Anthony (abonacolta[at]gmail.com)!
