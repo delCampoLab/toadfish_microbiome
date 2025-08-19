@@ -1,3 +1,5 @@
+<img src="https://cdn.britannica.com/95/129295-050-4065E1ED/Oyster-toadfish.jpg" alt="toadfish figure"/>
+
 # Microbial contribution to Ichthyocarbonate production in the Gulf Toadfish
 
 Welcome! 🎉  
