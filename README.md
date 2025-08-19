@@ -1,12 +1,3 @@
-<table>
-<tr>
-<td>
-
-<img src="Fig4_summary.png" alt="Summary figure" width="600"/>
-
-</td>
-<td>
-
 # Microbial contribution to Ichthyocarbonate production in the Gulf Toadfish
 
 Welcome! 🎉  
@@ -36,7 +27,6 @@ microbiome/
         ├── redo/                  # Corrected Datasets
         └── trees/                 # Phylogenetic trees
 ```
-</td> </tr> </table> 
 
 ## 🔬 Analyses
 
@@ -52,3 +42,6 @@ microbiome/
 ## 📧 Contact
 
 If you have questions or suggestions, feel free to reach out to Anthony (abonacolta[at]gmail.com)!
+
+<img src="Fig4_summary.png" alt="Summary figure" width="400"/>
+
