@@ -1,0 +1,883 @@
+"","OTU","Sample","Abundance","Tank","Location","Treatment","Source","Combined","Kingdom","Phylum","Class","Order","Family","Genus","sd","SD","median"
+"1","ASV_1","Posterior_60",91.237703042782,NA,NA,60,NA,"Posterior_60","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",15.4245412710855,0.652319682926907,9.23962889798222
+"2","ASV_1","Posterior_QC",69.7504798464491,NA,NA,NA,NA,"Posterior_QC","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",NA,2.812865033244,9.23962889798222
+"3","ASV_1","Fluid_60",48.758865248227,NA,NA,60,NA,"Fluid_60","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",NA,0.0813626853557715,9.23962889798222
+"4","ASV_1","Fluid_35",46.2691104157354,NA,NA,35,NA,"Fluid_35","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",30.8887095335335,30.8887095335335,9.23962889798222
+"5","ASV_1","Posterior_35",40.5698065601346,NA,NA,35,NA,"Posterior_35","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",23.0554791600249,NA,9.23962889798222
+"6","ASV_1","Fluid_9",33.5767318302568,NA,NA,9,NA,"Fluid_9","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",15.5624976644138,15.5624976644138,9.23962889798222
+"7","ASV_1","Posterior_9",28.4973421496175,NA,NA,9,NA,"Posterior_9","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",37.1114708512205,23.0554791600249,9.23962889798222
+"8","ASV_1","Precipitates_60",9.23962889798222,NA,NA,60,NA,"Precipitates_60","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",1.51122281040931,15.4245412710855,9.23962889798222
+"9","ASV_1","Precipitates_35",5.71008846166129,NA,NA,35,NA,"Precipitates_35","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",7.24129165163668,37.1114708512205,9.23962889798222
+"10","ASV_1","Anterior_60",1.00457055798895,NA,NA,60,NA,"Anterior_60","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",2.812865033244,NA,9.23962889798222
+"11","ASV_1","Anterior_35",0.244612205305554,NA,NA,35,NA,"Anterior_35","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",0.652319682926907,7.24129165163668,9.23962889798222
+"12","ASV_1","Anterior_9",0.0814128256513026,NA,NA,9,NA,"Anterior_9","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",0.0813626853557715,1.51122281040931,9.23962889798222
+"13","ASV_1","Water_60",0.03170526783025,NA,NA,60,NA,"Water_60","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",0.0155862947344266,NA,9.23962889798222
+"14","ASV_1","Water_9",0.0223857208948319,NA,NA,9,NA,"Water_9","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",0.0334954970519953,0.0155862947344266,9.23962889798222
+"15","ASV_1","Water_35",0.0160638269390378,NA,NA,35,NA,"Water_35","Bacteria","Spirochaetota","Brevinematia","Brevinematales","Brevinemataceae","Brevinema",NA,0.0334954970519953,9.23962889798222
+"16","ASV_10","Water_9",9.53780948259137,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacilli","Paenibacillales","Paenibacillaceae","Below Threshold",11.5223865911334,0,0
+"17","ASV_10","Water_35",9.02787073973923,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacilli","Paenibacillales","Paenibacillaceae","Below Threshold",NA,0,0
+"18","ASV_10","Water_60",3.29259206417146,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacilli","Paenibacillales","Paenibacillaceae","Below Threshold",0.165864523318018,0,0
+"19","ASV_10","Fluid_9",0.005449220080376,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Bacilli","Paenibacillales","Paenibacillaceae","Below Threshold",0.00457695290568702,0,0
+"20","ASV_101","Water_60",0.927379084034812,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.582090932072546,0,0
+"21","ASV_101","Water_9",0.0477562045756414,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0590255249552913,0.0200677882930005,0
+"22","ASV_101","Precipitates_60",0.0299844786228305,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0123191397135816,0,0
+"23","ASV_101","Anterior_60",0.0238049895258046,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0200677882930005,0,0
+"24","ASV_104","Water_9",0.646201143164147,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.499439620647109,0,0
+"25","ASV_104","Water_60",0.125235807929487,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0940106968981328,0,0
+"26","ASV_104","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"27","ASV_104","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00394755918901662,0,0
+"28","ASV_105","Water_35",1.83127627105031,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","AEGEAN-169 marine group","Below Threshold",NA,0,0
+"29","ASV_105","Water_60",0.2409600355099,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","AEGEAN-169 marine group","Below Threshold",0.039786805265461,0,0
+"30","ASV_105","Water_9",0.152222902084857,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","AEGEAN-169 marine group","Below Threshold",0.102678177899628,0,0
+"31","ASV_105","Precipitates_35",0.00212904118630175,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","AEGEAN-169 marine group","Below Threshold",0.00399010682609569,0,0
+"32","ASV_1068","Water_60",0.01902316069815,NA,NA,60,NA,"Water_60","Bacteria","Other","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Below Threshold",0.00942435536394652,0,0
+"33","ASV_109","Water_35",0.829964391850285,NA,NA,35,NA,"Water_35","Bacteria","Other","Cyanobacteriia","Synechococcales","Cyanobiaceae","Below Threshold",NA,0,0
+"34","ASV_109","Water_60",0.515210602241562,NA,NA,60,NA,"Water_60","Bacteria","Other","Cyanobacteriia","Synechococcales","Cyanobiaceae","Below Threshold",0.11969757266424,0,0
+"35","ASV_109","Water_9",0.0611876371125405,NA,NA,9,NA,"Water_9","Bacteria","Other","Cyanobacteriia","Synechococcales","Cyanobiaceae","Below Threshold",0.0557052797165769,0,0
+"36","ASV_109","Precipitates_60",0.00264568929024975,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Cyanobacteriia","Synechococcales","Cyanobiaceae","Below Threshold",0.00239956804655936,0.00288487617643345,0
+"37","ASV_109","Fluid_35",0.000894054537326777,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Cyanobacteriia","Synechococcales","Cyanobiaceae","Below Threshold",0.00288487617643345,NA,0
+"38","ASV_11","Fluid_35",7.38667858739383,NA,NA,35,NA,"Fluid_35","Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Epulopiscium",7.01119838460759,0.0440165389471125,0.012652355446839
+"39","ASV_11","Precipitates_35",1.62978102811399,NA,NA,35,NA,"Precipitates_35","Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Epulopiscium",1.85069146949638,0.00401355765860011,0.012652355446839
+"40","ASV_11","Posterior_35",0.97771236333053,NA,NA,35,NA,"Posterior_35","Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Epulopiscium",1.50782294396617,0,0.012652355446839
+"41","ASV_11","Posterior_60",0.0915122397620682,NA,NA,60,NA,"Posterior_60","Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Epulopiscium",0.194557799221441,7.01119838460759,0.012652355446839
+"42","ASV_11","Water_9",0.0671571626844956,NA,NA,9,NA,"Water_9","Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Epulopiscium",0.113496237528159,NA,0.012652355446839
+"43","ASV_11","Precipitates_60",0.0202836178919148,NA,NA,60,NA,"Precipitates_60","Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Epulopiscium",0.0207341619841448,0,0.012652355446839
+"44","ASV_11","Water_60",0.0126821071321,NA,NA,60,NA,"Water_60","Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Epulopiscium",0.0214798035321444,1.50782294396617,0.012652355446839
+"45","ASV_11","Anterior_35",0.012652355446839,NA,NA,35,NA,"Anterior_35","Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Epulopiscium",0.0440165389471125,0.194557799221441,0.012652355446839
+"46","ASV_11","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Firmicutes","Clostridia","Lachnospirales","Lachnospiraceae","Epulopiscium",0.00401355765860011,0,0.012652355446839
+"47","ASV_1116","Water_60",0.0110968437405875,NA,NA,60,NA,"Water_60","Bacteria","Other","Vampirivibrionia","Vampirovibrionales","Vampirovibrionales_X","Below Threshold",0.00696923143515643,0,0
+"48","ASV_1116","Water_35",0.0107092179593585,NA,NA,35,NA,"Water_35","Bacteria","Other","Vampirivibrionia","Vampirovibrionales","Vampirovibrionales_X","Below Threshold",NA,0,0
+"49","ASV_1118","Water_35",0.0160638269390378,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Coxiellales","Coxiellaceae","Below Threshold",NA,0,0
+"50","ASV_1118","Water_60",0.0047557901745375,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Coxiellales","Coxiellaceae","Below Threshold",0.00805492632455414,0,0
+"51","ASV_1118","Water_9",0.00298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Coxiellales","Coxiellaceae","Below Threshold",0.000707695099416043,0,0
+"52","ASV_112","Precipitates_60",0.234584450402145,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.354788281781623,0,0
+"53","ASV_112","Fluid_35",0.126061689763076,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.110974577486116,0,0
+"54","ASV_112","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",NA,0,0
+"55","ASV_112","Precipitates_35",0.0500324678780911,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.0215716514518165,0.110974577486116,0
+"56","ASV_112","Posterior_60",0.022878059940517,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.0193871816383353,NA,0
+"57","ASV_112","Posterior_35",0.0210260723296888,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.0324262998702401,0,0
+"58","ASV_112","Water_60",0.009511580349075,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.00455762441524087,0.0324262998702401,0
+"59","ASV_1128","Fluid_60",0.443262411347518,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Actinobacteria","Corynebacteriales","Mycobacteriaceae","Below Threshold",NA,0,0
+"60","ASV_1128","Water_35",0.0107092179593585,NA,NA,35,NA,"Water_35","Bacteria","Other","Actinobacteria","Corynebacteriales","Mycobacteriaceae","Below Threshold",NA,0,0
+"61","ASV_1128","Water_9",0.00298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Actinobacteria","Corynebacteriales","Mycobacteriaceae","Below Threshold",0.00362888702464164,0,0
+"62","ASV_113","Fluid_60",1.15248226950355,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Peptostreptococcaceae","Below Threshold",NA,0,0.0042580823726035
+"63","ASV_113","Water_9",0.685003059381856,NA,NA,9,NA,"Water_9","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Peptostreptococcaceae","Below Threshold",1.15766162278722,0,0.0042580823726035
+"64","ASV_113","Water_60",0.03170526783025,NA,NA,60,NA,"Water_60","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Peptostreptococcaceae","Below Threshold",0.0536995088303609,0,0.0042580823726035
+"65","ASV_113","Fluid_35",0.0268216361198033,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Peptostreptococcaceae","Below Threshold",0.0254657179676377,0.0254657179676377,0.0042580823726035
+"66","ASV_113","Posterior_35",0.0210260723296888,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Peptostreptococcaceae","Below Threshold",0.0324262998702401,NA,0.0042580823726035
+"67","ASV_113","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Peptostreptococcaceae","Below Threshold",NA,0,0.0042580823726035
+"68","ASV_113","Precipitates_60",0.00440948215041626,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Peptostreptococcaceae","Below Threshold",0.00524981028934861,0.0324262998702401,0.0042580823726035
+"69","ASV_113","Precipitates_35",0.0042580823726035,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Peptostreptococcaceae","Below Threshold",0.00483524877726031,0,0.0042580823726035
+"70","ASV_115","Water_35",0.487269417150813,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",NA,0,0
+"71","ASV_115","Water_60",0.264738986382587,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.256183794223218,0,0
+"72","ASV_115","Water_9",0.1731162415867,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.279558332589303,0,0
+"73","ASV_115","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.000918236320996287,0,0
+"74","ASV_116","Water_35",1.16462745308024,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Litoricolaceae","Below Threshold",NA,0.00769595133550554,0
+"75","ASV_116","Water_60",0.198157923939062,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Litoricolaceae","Below Threshold",0.0588323881020112,0,0
+"76","ASV_116","Water_9",0.0119390511439103,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Litoricolaceae","Below Threshold",0.0101789659745089,0,0
+"77","ASV_116","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Litoricolaceae","Below Threshold",0.00769595133550554,0,0
+"78","ASV_116","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Litoricolaceae","Below Threshold",0.00271502595433635,NA,0
+"79","ASV_1170","Water_35",0.0133865224491981,NA,NA,35,NA,"Water_35","Bacteria","Other","Gracilibacteria","Candidatus Peregrinibacteria","Candidatus Peregrinibacteria_X","Below Threshold",NA,0,0
+"80","ASV_1170","Water_60",0.0079263169575625,NA,NA,60,NA,"Water_60","Bacteria","Other","Gracilibacteria","Candidatus Peregrinibacteria","Candidatus Peregrinibacteria_X","Below Threshold",0.00711139636052006,0,0
+"81","ASV_12","Water_60",10.5388310267751,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",2.95816828775266,0,0
+"82","ASV_12","Water_9",2.68180936320086,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.546964113282132,0.072244037854802,0
+"83","ASV_12","Precipitates_60",0.232820657541978,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0595235135829339,0,0
+"84","ASV_12","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"85","ASV_12","Anterior_60",0.0856979622928966,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.072244037854802,NA,0
+"86","ASV_12","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0.0050392796472866,0
+"87","ASV_12","Fluid_9",0.002724610040188,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0050392796472866,0,0
+"88","ASV_120","Water_35",1.4457444245134,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0.00470384772030003,0
+"89","ASV_120","Water_9",0.399958213320996,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.28130417465623,0,0
+"90","ASV_120","Water_60",0.380463213963,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.149500750714273,0,0
+"91","ASV_120","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00470384772030003,0,0
+"92","ASV_120","Precipitates_60",0.00264568929024975,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00275470896298886,NA,0
+"93","ASV_1219","Water_60",0.0253642142642,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Alphaproteobacteria_X","Alphaproteobacteria_XX","Below Threshold",0.00475656615613238,0,0
+"94","ASV_1271","Water_35",0.0107092179593585,NA,NA,35,NA,"Water_35","Bacteria","Other","Kapabacteria","Kapabacteriales","Kapabacteriales_X","Below Threshold",NA,0,0
+"95","ASV_1271","Water_60",0.00634105356605,NA,NA,60,NA,"Water_60","Bacteria","Other","Kapabacteria","Kapabacteriales","Kapabacteriales_X","Below Threshold",0.00707386382008992,0,0
+"96","ASV_129","Water_35",4.323846751091,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0.00769595133550554,0.00319356177945262
+"97","ASV_129","Water_60",0.727635896704237,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0672956219967364,0.00401355765860011,0.00319356177945262
+"98","ASV_129","Water_9",0.199979106660498,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0349794886962212,0,0.00319356177945262
+"99","ASV_129","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0.00242360116358671,0.00319356177945262
+"100","ASV_129","Precipitates_60",0.00881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00940546065630723,NA,0.00319356177945262
+"101","ASV_129","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00401355765860011,0,0.00319356177945262
+"102","ASV_129","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00769595133550554,0,0.00319356177945262
+"103","ASV_129","Precipitates_35",0.00319356177945262,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00598516023914353,0,0.00319356177945262
+"104","ASV_129","Fluid_35",0.000894054537326777,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00242360116358671,0,0.00319356177945262
+"105","ASV_13","Water_9",8.78266449773904,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",9.27027770065732,0,0
+"106","ASV_13","Water_60",5.09503654032117,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",5.78807602466414,0.00401355765860011,0
+"107","ASV_13","Water_35",0.123156006532623,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"108","ASV_13","Precipitates_60",0.0925991251587414,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.100796163440368,0,0
+"109","ASV_13","Posterior_9",0.0129651238169325,NA,NA,9,NA,"Posterior_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0102449548129027,NA,0
+"110","ASV_13","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00401355765860011,0,0
+"111","ASV_131","Water_9",0.376080111033176,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.587876526793055,0,0
+"112","ASV_131","Water_60",0.286932673863762,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.473163091599658,0.0321084612688009,0
+"113","ASV_131","Anterior_60",0.0380879832412874,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.0321084612688009,0,0
+"114","ASV_131","Precipitates_60",0.00617327501058276,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.0158509974088952,0,0
+"115","ASV_132","Water_9",0.598444938588506,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Spongiibacteraceae","Below Threshold",0.424031099756611,0,0
+"116","ASV_132","Water_60",0.50094323171795,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Spongiibacteraceae","Below Threshold",0.472894419785419,0.0160542306344004,0
+"117","ASV_132","Anterior_60",0.0190439916206437,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Spongiibacteraceae","Below Threshold",0.0160542306344004,0,0
+"118","ASV_132","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Spongiibacteraceae","Below Threshold",NA,0,0
+"119","ASV_132","Precipitates_60",0.003527585720333,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Spongiibacteraceae","Below Threshold",0.0108601038173454,NA,0
+"120","ASV_133","Water_60",1.2428464989458,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Marinomonadaceae","Below Threshold",0.32604945074163,0,0
+"121","ASV_133","Anterior_60",0.0714149685774138,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Marinomonadaceae","Below Threshold",0.0495697723907453,0.0495697723907453,0
+"122","ASV_133","Precipitates_60",0.021165514321998,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Marinomonadaceae","Below Threshold",0.01533658443843,0,0
+"123","ASV_133","Water_9",0.0104466697509215,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Marinomonadaceae","Below Threshold",0.004645223909985,0,0
+"124","ASV_133","Water_35",0.00535460897967926,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Marinomonadaceae","Below Threshold",NA,NA,0
+"125","ASV_134","Water_9",0.743205933708419,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Cytophagales","Bernardetiaceae","Below Threshold",0.838544137274904,0,0
+"126","ASV_134","Water_60",0.015852633915125,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Cytophagales","Bernardetiaceae","Below Threshold",0.0174060662883583,0,0
+"127","ASV_139","Water_60",0.69117483869945,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.553529638969771,0,0
+"128","ASV_139","Water_9",0.0104466697509215,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.004645223909985,0,0
+"129","ASV_139","Precipitates_60",0.00881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00659992461077906,0,0
+"130","ASV_139","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0,0
+"131","ASV_14","Water_60",7.01637577083432,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",3.53424250124987,0,0.00106452059315087
+"132","ASV_14","Water_9",4.20105362126345,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",1.24810039677177,0.0329408498308275,0.00106452059315087
+"133","ASV_14","Water_35",0.902251613075955,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0.00106452059315087
+"134","ASV_14","Precipitates_60",0.263687032594892,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.112241106636351,0,0.00106452059315087
+"135","ASV_14","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,NA,0.00106452059315087
+"136","ASV_14","Anterior_60",0.0333269853361265,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0329408498308275,0.00228847645284351,0.00106452059315087
+"137","ASV_14","Fluid_9",0.002724610040188,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00228847645284351,0,0.00106452059315087
+"138","ASV_14","Precipitates_35",0.00106452059315087,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00199505341304784,0,0.00106452059315087
+"139","ASV_141","Water_60",0.634105356605,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Paracaedibacterales","Paracaedibacteraceae","Below Threshold",0.816506312439891,0,0
+"140","ASV_141","Water_35",0.0267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Paracaedibacterales","Paracaedibacteraceae","Below Threshold",NA,0,0
+"141","ASV_141","Water_9",0.0149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Paracaedibacterales","Paracaedibacteraceae","Below Threshold",0.00353847549708022,0,0
+"142","ASV_141","Precipitates_60",0.003527585720333,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Paracaedibacterales","Paracaedibacteraceae","Below Threshold",0.00367294528398515,0,0
+"143","ASV_142","Water_35",0.888865090626757,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",NA,0,0
+"144","ASV_142","Water_60",0.003170526783025,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.00570701595600876,0,0
+"145","ASV_144","Water_35",1.46984016492196,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","SAR86 clade","Below Threshold",NA,0,0
+"146","ASV_144","Water_60",0.0776779061841125,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","SAR86 clade","Below Threshold",0.0194934339531434,0.0120406729758003,0
+"147","ASV_144","Water_9",0.0268628650737983,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","SAR86 clade","Below Threshold",0.0239868189736594,0,0
+"148","ASV_144","Anterior_60",0.0142829937154828,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","SAR86 clade","Below Threshold",0.0120406729758003,0.00242360116358671,0
+"149","ASV_144","Fluid_35",0.000894054537326777,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","SAR86 clade","Below Threshold",0.00242360116358671,NA,0
+"150","ASV_147","Water_60",0.515210602241562,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.339441369961729,0,0
+"151","ASV_147","Precipitates_60",0.00264568929024975,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.00156398061923624,0,0
+"152","ASV_15","Water_35",5.9382613584643,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacilli","Bacillales","Bacillaceae","Below Threshold",NA,0,0
+"153","ASV_15","Water_9",3.61305535242587,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacilli","Bacillales","Bacillaceae","Below Threshold",3.71626093197571,0,0
+"154","ASV_15","Water_60",1.61538339595124,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacilli","Bacillales","Bacillaceae","Below Threshold",1.59803303168693,0,0
+"155","ASV_151","Water_35",0.385531846536907,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0.00470384772030003,0
+"156","ASV_151","Water_60",0.369366370222412,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.157268172170589,0,0
+"157","ASV_151","Precipitates_60",0.00793706787074926,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00349663092742986,0,0
+"158","ASV_151","Water_9",0.00447714417896638,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00322983371115291,0,0
+"159","ASV_151","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00470384772030003,NA,0
+"160","ASV_152","Water_60",0.64044641017105,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.857859467420295,0,0
+"161","ASV_152","Water_9",0.0179085767158655,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.0302656633408424,0,0
+"162","ASV_152","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.000918236320996287,0,0
+"163","ASV_157","Water_60",0.301200044387375,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Cytophagales","Cyclobacteriaceae","Below Threshold",0.211457498956438,0,0
+"164","ASV_157","Water_9",0.141776232333935,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Cytophagales","Cyclobacteriaceae","Below Threshold",0.0249283414525167,0.00802711531720022,0
+"165","ASV_157","Anterior_60",0.00952199581032184,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Bacteroidia","Cytophagales","Cyclobacteriaceae","Below Threshold",0.00802711531720022,0,0
+"166","ASV_157","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Cytophagales","Cyclobacteriaceae","Below Threshold",0.00239196330034505,0,0
+"167","ASV_159","Water_35",0.366790715108029,NA,NA,35,NA,"Water_35","Bacteria","Other","Acidimicrobiia","Actinomarinales","Actinomarinaceae","Below Threshold",NA,0,0
+"168","ASV_159","Water_60",0.187061080198475,NA,NA,60,NA,"Water_60","Bacteria","Other","Acidimicrobiia","Actinomarinales","Actinomarinaceae","Below Threshold",0.0467631335545304,0.0120406729758003,0
+"169","ASV_159","Water_9",0.0298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Acidimicrobiia","Actinomarinales","Actinomarinaceae","Below Threshold",0.0362888702464164,0,0
+"170","ASV_159","Anterior_60",0.0142829937154828,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Acidimicrobiia","Actinomarinales","Actinomarinaceae","Below Threshold",0.0120406729758003,0,0
+"171","ASV_16","Precipitates_35",4.65727759503508,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Morganellaceae","Below Threshold",5.28855335012846,3.08115772629788,0
+"172","ASV_16","Anterior_35",0.885664881278731,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Morganellaceae","Below Threshold",3.08115772629788,0,0
+"173","ASV_16","Posterior_35",0.494112699747687,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Morganellaceae","Below Threshold",0.762018046950643,0,0
+"174","ASV_16","Fluid_35",0.00625838176128744,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Morganellaceae","Below Threshold",0.00594200085911546,0.00594200085911546,0
+"175","ASV_160","Water_60",0.420094798750812,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Spongiibacteraceae","Below Threshold",0.444541817809834,0,0
+"176","ASV_160","Water_35",0.0240957404085567,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Spongiibacteraceae","Below Threshold",NA,0,0
+"177","ASV_160","Precipitates_60",0.0123465500211655,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Spongiibacteraceae","Below Threshold",0.0119750498146434,0,0
+"178","ASV_160","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Spongiibacteraceae","Below Threshold",0.00181444351232082,0,0
+"179","ASV_168","Water_9",0.299968659990747,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Porticoccaceae","Below Threshold",0.343020235356197,0,0
+"180","ASV_168","Water_35",0.1418971379615,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Porticoccaceae","Below Threshold",NA,0,0
+"181","ASV_168","Water_60",0.0301200044387375,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Porticoccaceae","Below Threshold",0.0377084647420308,0,0
+"182","ASV_168","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Porticoccaceae","Below Threshold",0.000918236320996287,0,0
+"183","ASV_17","Precipitates_35",3.49695014850062,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",6.55375046186217,0.346317810097749,0
+"184","ASV_17","Anterior_35",0.189785331702585,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.346317810097749,0.00802711531720022,0
+"185","ASV_17","Anterior_60",0.00952199581032184,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.00802711531720022,0.00549595686996312,0
+"186","ASV_17","Anterior_9",0.0062625250501002,NA,NA,9,NA,"Anterior_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.00549595686996312,0.00346286443271345,0
+"187","ASV_17","Fluid_35",0.00357621814930711,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.00346286443271345,NA,0
+"188","ASV_17","Precipitates_60",0.00264568929024975,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.00239956804655936,0.0027656173078637,0
+"189","ASV_17","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.0027656173078637,0,0
+"190","ASV_171","Water_60",0.529477972765175,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Idiomarinaceae","Below Threshold",0.669884524559078,0,0
+"191","ASV_171","Precipitates_60",0.00440948215041626,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Idiomarinaceae","Below Threshold",0.0135751297716818,0,0
+"192","ASV_171","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Idiomarinaceae","Below Threshold",NA,0,0
+"193","ASV_171","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Idiomarinaceae","Below Threshold",0.00252213861173687,0,0
+"194","ASV_172","Water_9",0.40742012028594,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",0.250549046474338,0,0
+"195","ASV_172","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",NA,0,0
+"196","ASV_172","Water_60",0.0126821071321,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",0.00528897880874585,0,0
+"197","ASV_172","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",NA,0,0
+"198","ASV_173","Water_35",0.57562046531552,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0,0
+"199","ASV_173","Water_60",0.0808484329671375,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.027902944714161,0,0
+"200","ASV_173","Water_9",0.00298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.000707695099416043,0,0
+"201","ASV_173","Precipitates_35",0.00106452059315087,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00199505341304784,0,0
+"202","ASV_175","Water_60",0.372536897005437,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.557940987725954,0,0
+"203","ASV_175","Water_35",0.0294503493882359,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"204","ASV_175","Precipitates_60",0.00970086073091576,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0267029847915174,0,0
+"205","ASV_175","Water_9",0.00596952557195517,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00575197232288977,0,0
+"206","ASV_178","Water_35",0.21953896816685,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"207","ASV_178","Water_60",0.201328450722087,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0434395016607359,0,0
+"208","ASV_178","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"209","ASV_178","Precipitates_60",0.003527585720333,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00367294528398515,0,0
+"210","ASV_178","Fluid_9",0.002724610040188,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0050392796472866,NA,0
+"211","ASV_18","Precipitates_35",3.39901425393074,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacterales_X","Below Threshold",6.37020554786177,0.43097327478831,0
+"212","ASV_18","Anterior_35",0.236177301674328,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacterales_X","Below Threshold",0.43097327478831,0,0
+"213","ASV_18","Fluid_35",0.00536432722396066,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacterales_X","Below Threshold",0.0145416069815203,0,0
+"214","ASV_18","Precipitates_60",0.003527585720333,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacterales_X","Below Threshold",0.00273508337575538,0.0145416069815203,0
+"215","ASV_18","Fluid_9",0.002724610040188,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacterales_X","Below Threshold",0.00246122749218891,NA,0
+"216","ASV_181","Water_9",0.119390511439103,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Shewanellaceae","Below Threshold",0.154068685574315,0,0
+"217","ASV_181","Fluid_35",0.0751005811354493,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Shewanellaceae","Below Threshold",0.0713040103093855,0,0
+"218","ASV_181","Posterior_60",0.0457561198810341,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Shewanellaceae","Below Threshold",0.0387743632766706,0.0909213022345867,0
+"219","ASV_181","Water_60",0.0269494776557125,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Shewanellaceae","Below Threshold",0.0341244438846798,0.0713040103093855,0
+"220","ASV_181","Precipitates_60",0.0238112036122478,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Shewanellaceae","Below Threshold",0.0232555869251703,NA,0
+"221","ASV_181","Anterior_9",0.0062625250501002,NA,NA,9,NA,"Anterior_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Shewanellaceae","Below Threshold",0.0909213022345867,0,0
+"222","ASV_181","Precipitates_35",0.00212904118630175,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Shewanellaceae","Below Threshold",0.00241762438863015,0,0
+"223","ASV_19","Water_9",8.46031011685346,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",2.88353458558027,0.00470384772030003,0.00421745181561301
+"224","ASV_19","Water_60",5.12515654475991,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",3.19387012651382,0.0321084612688009,0.00421745181561301
+"225","ASV_19","Water_35",4.48448502048138,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0.00421745181561301
+"226","ASV_19","Fluid_60",0.531914893617021,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0.00242360116358671,0.00421745181561301
+"227","ASV_19","Precipitates_60",0.0440948215041626,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0286655119632293,NA,0.00421745181561301
+"228","ASV_19","Anterior_60",0.0380879832412874,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0321084612688009,0.00654730837737004,0.00421745181561301
+"229","ASV_19","Fluid_9",0.00681152510047,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00654730837737004,0,0.00421745181561301
+"230","ASV_19","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00470384772030003,0,0.00421745181561301
+"231","ASV_19","Precipitates_35",0.00319356177945262,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00598516023914353,0,0.00421745181561301
+"232","ASV_19","Fluid_35",0.000894054537326777,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00242360116358671,NA,0.00421745181561301
+"233","ASV_194","Water_60",0.263153722991075,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Colwelliaceae","Below Threshold",0.0363523667467125,0,0
+"234","ASV_194","Anterior_60",0.0999809560083793,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Colwelliaceae","Below Threshold",0.0842847108306023,0.0842847108306023,0
+"235","ASV_194","Precipitates_60",0.003527585720333,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Colwelliaceae","Below Threshold",0.00367294528398515,0,0
+"236","ASV_194","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Colwelliaceae","Below Threshold",0.00181444351232082,0,0
+"237","ASV_198","Water_60",0.275835830123175,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Sneathiellales","Sneathiellaceae","Below Threshold",0.382853880029653,0,0
+"238","ASV_198","Water_9",0.0134314325368991,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Sneathiellales","Sneathiellaceae","Below Threshold",0.0226992475056318,0.00401355765860011,0
+"239","ASV_198","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Sneathiellales","Sneathiellaceae","Below Threshold",0.00401355765860011,0,0
+"240","ASV_198","Precipitates_60",0.00264568929024975,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Sneathiellales","Sneathiellaceae","Below Threshold",0.00357793086369044,0,0
+"241","ASV_199","Water_60",0.6087411423408,NA,NA,60,NA,"Water_60","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Fusibacteraceae","Below Threshold",0.0755471863440293,0,0
+"242","ASV_199","Anterior_60",0.0380879832412874,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Fusibacteraceae","Below Threshold",0.0321084612688009,0.0321084612688009,0
+"243","ASV_199","Precipitates_60",0.00440948215041626,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Clostridia","Peptostreptococcales-Tissierellales","Fusibacteraceae","Below Threshold",0.00470273032815362,0,0
+"244","ASV_2","Precipitates_35",49.665208273454,NA,NA,35,NA,"Precipitates_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",56.3907251945552,6.49209331777176,0.230326295585413
+"245","ASV_2","Fluid_35",29.8104604380867,NA,NA,35,NA,"Fluid_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",28.3034478064981,0.0200677882930005,0.230326295585413
+"246","ASV_2","Fluid_9",3.77086029562019,NA,NA,9,NA,"Fluid_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",5.39306172518523,0,0.230326295585413
+"247","ASV_2","Precipitates_60",2.95258924791872,NA,NA,60,NA,"Precipitates_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",3.24345576431352,28.3034478064981,0.230326295585413
+"248","ASV_2","Anterior_35",1.87676605794779,NA,NA,35,NA,"Anterior_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",6.49209331777176,NA,0.230326295585413
+"249","ASV_2","Posterior_35",1.46131202691337,NA,NA,35,NA,"Posterior_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",2.25362784098169,5.39306172518523,0.230326295585413
+"250","ASV_2","Water_60",0.72922116009575,NA,NA,60,NA,"Water_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",1.05551075513043,2.25362784098169,0.230326295585413
+"251","ASV_2","Posterior_QC",0.230326295585413,NA,NA,NA,NA,"Posterior_QC","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",NA,0,0.230326295585413
+"252","ASV_2","Water_9",0.189532436909577,NA,NA,9,NA,"Water_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",0.242253125457544,0.0102449548129027,0.230326295585413
+"253","ASV_2","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",NA,NA,0.230326295585413
+"254","ASV_2","Anterior_60",0.0238049895258046,NA,NA,60,NA,"Anterior_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",0.0200677882930005,56.3907251945552,0.230326295585413
+"255","ASV_2","Posterior_9",0.0129651238169325,NA,NA,9,NA,"Posterior_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",0.0102449548129027,3.24345576431352,0.230326295585413
+"256","ASV_2","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Photobacterium",NA,NA,0.230326295585413
+"257","ASV_20","Water_9",7.59323652752698,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Nitrosococcales","Methylophagaceae","Below Threshold",7.05492436441138,0,0
+"258","ASV_20","Water_60",0.179134763240912,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Nitrosococcales","Methylophagaceae","Below Threshold",0.212479996853937,0,0
+"259","ASV_20","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Nitrosococcales","Methylophagaceae","Below Threshold",NA,0,0
+"260","ASV_20","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Nitrosococcales","Methylophagaceae","Below Threshold",0.00394755918901662,0,0
+"261","ASV_200","Fluid_60",15.9574468085106,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Bacteroidia","Bacteroidales","Bacteroidaceae","Below Threshold",NA,0,0
+"262","ASV_200","Posterior_35",0.0420521446593776,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Bacteroidia","Bacteroidales","Bacteroidaceae","Below Threshold",0.0648525997404803,0,0
+"263","ASV_200","Posterior_9",0.0129651238169325,NA,NA,9,NA,"Posterior_9","Bacteria","Other","Bacteroidia","Bacteroidales","Bacteroidaceae","Below Threshold",0.0102449548129027,0,0
+"264","ASV_200","Water_60",0.0015852633915125,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Bacteroidales","Bacteroidaceae","Below Threshold",0.00285350797800438,0,0
+"265","ASV_205","Water_60",0.391560057703587,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.180846344171843,0,0
+"266","ASV_205","Water_9",0.079096213828406,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.125000182173938,0.0200677882930005,0
+"267","ASV_205","Anterior_60",0.0238049895258046,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.0200677882930005,0,0
+"268","ASV_205","Precipitates_60",0.00440948215041626,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.00739977786808172,0,0
+"269","ASV_212","Water_35",0.449787154293058,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Sphingobacteriales","NS11-12 marine group","Below Threshold",NA,0,0
+"270","ASV_212","Water_60",0.066581062443525,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Sphingobacteriales","NS11-12 marine group","Below Threshold",0.03704887527541,0,0
+"271","ASV_212","Water_9",0.00298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Sphingobacteriales","NS11-12 marine group","Below Threshold",0.00362888702464164,0,0
+"272","ASV_22","Water_9",4.5935499276195,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",7.6677378401968,0,0
+"273","ASV_22","Water_60",0.0507284285284,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0784478447477303,0,0
+"274","ASV_22","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00271502595433635,0,0
+"275","ASV_223","Water_9",0.426821078394795,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Comamonadaceae","Below Threshold",0.426444058520821,0,0
+"276","ASV_223","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Comamonadaceae","Below Threshold",NA,0,0
+"277","ASV_224","Water_60",0.27266530334015,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.0375560983992434,0,0
+"278","ASV_224","Precipitates_60",0.003527585720333,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.00772698809398069,0,0
+"279","ASV_23","Precipitates_35",1.33277978262489,NA,NA,35,NA,"Precipitates_35","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.123742458079977,0.998357162033499,0.182548872692596
+"280","ASV_23","Fluid_35",0.666964684845776,NA,NA,35,NA,"Fluid_35","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.478953633455207,0.385024293053922,0.182548872692596
+"281","ASV_23","Anterior_9",0.588677354709419,NA,NA,9,NA,"Anterior_9","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.432822295788563,0.432822295788563,0.182548872692596
+"282","ASV_23","Anterior_60",0.537992763283184,NA,NA,60,NA,"Anterior_60","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.385024293053922,0.478953633455207,0.182548872692596
+"283","ASV_23","Anterior_35",0.366918307958332,NA,NA,35,NA,"Anterior_35","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.998357162033499,NA,0.182548872692596
+"284","ASV_23","Precipitates_60",0.279561168336391,NA,NA,60,NA,"Precipitates_60","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.721849391233305,0.179676843350163,0.182548872692596
+"285","ASV_23","Posterior_9",0.272267600155581,NA,NA,9,NA,"Posterior_9","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.215144051070958,0.226984099091681,0.182548872692596
+"286","ASV_23","Fluid_9",0.182548872692596,NA,NA,9,NA,"Fluid_9","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.179676843350163,0,0.182548872692596
+"287","ASV_23","Posterior_35",0.147182506307822,NA,NA,35,NA,"Posterior_35","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.226984099091681,0.215144051070958,0.182548872692596
+"288","ASV_23","Water_9",0.0238781022878207,NA,NA,9,NA,"Water_9","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.0403542177877898,NA,0.182548872692596
+"289","ASV_23","Water_60",0.009511580349075,NA,NA,60,NA,"Water_60","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrio",0.0171210478680263,0.123742458079977,0.182548872692596
+"290","ASV_231","Water_35",0.366790715108029,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0,0
+"291","ASV_231","Water_60",0.0887747499247,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0507974936046775,0,0
+"292","ASV_231","Water_9",0.0208933395018431,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0210656270484338,0,0
+"293","ASV_231","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.000918236320996287,0,0
+"294","ASV_234","Water_35",1.22620545634655,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Puniceispirillales","SAR116 clade","Below Threshold",NA,0,0
+"295","ASV_234","Water_60",0.1775494998494,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Puniceispirillales","SAR116 clade","Below Threshold",0.0432471520132727,0,0
+"296","ASV_234","Water_9",0.0298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Puniceispirillales","SAR116 clade","Below Threshold",0.0232791238742434,0,0
+"297","ASV_234","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Puniceispirillales","SAR116 clade","Below Threshold",0.00183647264199257,0,0
+"298","ASV_234","Precipitates_35",0.00106452059315087,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","Puniceispirillales","SAR116 clade","Below Threshold",0.00199505341304784,NA,0
+"299","ASV_239","Water_35",0.248989317555086,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Thioglobaceae","Below Threshold",NA,0,0
+"300","ASV_239","Water_60",0.06975158922655,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Thioglobaceae","Below Threshold",0.000540262567858144,0,0
+"301","ASV_239","Water_9",0.0119390511439103,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Thioglobaceae","Below Threshold",0.0058423838504512,0,0
+"302","ASV_239","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Thioglobaceae","Below Threshold",0.000918236320996287,0,0
+"303","ASV_24","Water_60",4.33411011239517,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",3.3190697916326,0.00470384772030003,0
+"304","ASV_24","Precipitates_60",0.119056018061239,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0906604684443644,0.0120406729758003,0
+"305","ASV_24","Water_9",0.0671571626844956,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00792806194545631,0,0
+"306","ASV_24","Water_35",0.0455141763272737,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"307","ASV_24","Anterior_60",0.0142829937154828,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0120406729758003,NA,0
+"308","ASV_24","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00470384772030003,0.0025196398236433,0
+"309","ASV_24","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0025196398236433,0,0
+"310","ASV_249","Water_9",0.205948632232453,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Parvibaculales","Parvibaculaceae","Below Threshold",0.228710294079985,0,0
+"311","ASV_249","Water_60",0.0047557901745375,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Parvibaculales","Parvibaculaceae","Below Threshold",0.000159526430538907,0,0
+"312","ASV_25","Water_35",9.78822521485369,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"313","ASV_25","Water_60",0.453385329972575,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.110864917999132,0.0401355765860011,0
+"314","ASV_25","Water_9",0.310415329741669,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0911898303749236,0,0
+"315","ASV_25","Anterior_60",0.0476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0401355765860011,0.00256792155409927,0
+"316","ASV_25","Precipitates_35",0.00745164415205612,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0139653738913349,NA,0
+"317","ASV_25","Precipitates_60",0.00529137858049951,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00717588990103515,0,0
+"318","ASV_25","Fluid_35",0.00178810907465355,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00256792155409927,0,0
+"319","ASV_254","Water_9",0.198486725267509,NA,NA,9,NA,"Water_9","Bacteria","Other","Lentisphaeria","Lentisphaerales","Lentisphaeraceae","Below Threshold",0.219638076518381,0,0
+"320","ASV_254","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Lentisphaeria","Lentisphaerales","Lentisphaeraceae","Below Threshold",NA,0,0
+"321","ASV_254","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Lentisphaeria","Lentisphaerales","Lentisphaeraceae","Below Threshold",0.00194951973388359,0,0
+"322","ASV_257","Water_9",0.196994343874521,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.0120152195689974,0,0
+"323","ASV_257","Water_60",0.028534741047225,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.0201915443959139,0,0
+"324","ASV_257","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",NA,0,0
+"325","ASV_26","Water_35",7.27691360338411,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",NA,0.0146721796490375,0.00212904118630175
+"326","ASV_26","Water_60",1.34588861939411,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",0.256518642319449,0.0561898072204015,0.00212904118630175
+"327","ASV_26","Water_9",1.16107272374528,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",0.899920361946792,0,0.00212904118630175
+"328","ASV_26","Anterior_60",0.0666539706722529,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",0.0561898072204015,0,0.00212904118630175
+"329","ASV_26","Precipitates_60",0.0264568929024975,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",0.0374913970094989,NA,0.00212904118630175
+"330","ASV_26","Posterior_9",0.0129651238169325,NA,NA,9,NA,"Posterior_9","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",0.0102449548129027,0.00194951973388359,0.00212904118630175
+"331","ASV_26","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",0.0146721796490375,0,0.00212904118630175
+"332","ASV_26","Precipitates_35",0.00212904118630175,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",0.00399010682609569,0,0.00212904118630175
+"333","ASV_26","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",0.00194951973388359,0.0102449548129027,0.00212904118630175
+"334","ASV_267","Water_35",0.254343926534765,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"335","ASV_267","Water_60",0.04438737496235,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0270322616574732,0,0
+"336","ASV_267","Precipitates_35",0.00212904118630175,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00399010682609569,0,0
+"337","ASV_267","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00252213861173687,0,0
+"338","ASV_268","Water_35",0.310567320821397,NA,NA,35,NA,"Water_35","Bacteria","Other","Rhodothermia","Balneolales","Balneolaceae","Below Threshold",NA,0,0
+"339","ASV_268","Water_60",0.0142673705236125,NA,NA,60,NA,"Water_60","Bacteria","Other","Rhodothermia","Balneolales","Balneolaceae","Below Threshold",0.0140618875867983,0,0
+"340","ASV_268","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Rhodothermia","Balneolales","Balneolaceae","Below Threshold",0.00252213861173687,0,0
+"341","ASV_27","Water_35",4.79237503681294,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Methylophilaceae","Below Threshold",NA,0,0
+"342","ASV_27","Water_9",1.14913367260137,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Methylophilaceae","Below Threshold",1.02702790286121,0,0
+"343","ASV_27","Water_60",1.10175805710119,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Methylophilaceae","Below Threshold",0.418335798179645,0,0
+"344","ASV_27","Precipitates_60",0.010582757160999,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Methylophilaceae","Below Threshold",0.0076957899791751,0.00242360116358671,0
+"345","ASV_27","Precipitates_35",0.00638712355890525,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Methylophilaceae","Below Threshold",0.0119703204782871,NA,0
+"346","ASV_27","Fluid_35",0.000894054537326777,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Methylophilaceae","Below Threshold",0.00242360116358671,0,0
+"347","ASV_270","Precipitates_60",0.0776068858473261,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.120130407311534,0,0
+"348","ASV_270","Water_60",0.041216848179325,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.0657440927968018,0,0
+"349","ASV_270","Fluid_9",0.010898440160752,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.00984490996875564,0,0
+"350","ASV_270","Water_9",0.00298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.00504427722347373,0,0
+"351","ASV_270","Precipitates_35",0.00106452059315087,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Below Threshold",0.00120881219431508,NA,0
+"352","ASV_274","Water_60",0.37412216039695,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halomonadaceae","Below Threshold",0.192463158948612,0,0
+"353","ASV_274","Water_9",0.0656647812915069,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halomonadaceae","Below Threshold",0.084954606172076,0,0
+"354","ASV_274","Water_35",0.0107092179593585,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halomonadaceae","Below Threshold",NA,0,0
+"355","ASV_274","Precipitates_60",0.00793706787074926,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halomonadaceae","Below Threshold",0.00719870413967809,0,0
+"356","ASV_28","Water_9",3.53097437581148,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.000242952666045549,0,0
+"357","ASV_28","Water_35",0.0107092179593585,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0.01136292598287,0
+"358","ASV_28","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.01136292598287,0,0
+"359","ASV_28","Water_60",0.0015852633915125,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00268497544151805,0,0
+"360","ASV_280","Water_9",0.156700046263823,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Micavibrionales","Micavibrionaceae","Below Threshold",0.264824554232371,0,0
+"361","ASV_280","Water_35",0.093705657144387,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Micavibrionales","Micavibrionaceae","Below Threshold",NA,0,0
+"362","ASV_280","Water_60",0.041216848179325,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Micavibrionales","Micavibrionaceae","Below Threshold",0.038800191699977,0,0
+"363","ASV_280","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Micavibrionales","Micavibrionaceae","Below Threshold",0.000918236320996287,0,0
+"364","ASV_288","Water_35",0.182056705309095,NA,NA,35,NA,"Water_35","Archaea","Other","Nitrososphaeria","Nitrosopumilales","Nitrosopumilaceae","Below Threshold",NA,0,0
+"365","ASV_288","Water_60",0.0681663258350375,NA,NA,60,NA,"Water_60","Archaea","Other","Nitrososphaeria","Nitrosopumilales","Nitrosopumilaceae","Below Threshold",0.0238498243736637,0,0
+"366","ASV_288","Water_9",0.00746190696494396,NA,NA,9,NA,"Water_9","Archaea","Other","Nitrososphaeria","Nitrosopumilales","Nitrosopumilaceae","Below Threshold",0.00907221756160411,0,0
+"367","ASV_29","Water_9",2.42810452639276,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Alcanivoracaceae1","Below Threshold",2.58782669612513,0,0
+"368","ASV_29","Water_35",1.50196781880003,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Alcanivoracaceae1","Below Threshold",NA,0.00401355765860011,0
+"369","ASV_29","Water_60",0.397901111269637,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Alcanivoracaceae1","Below Threshold",0.110018841537614,0,0
+"370","ASV_29","Precipitates_60",0.00529137858049951,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Alcanivoracaceae1","Below Threshold",0.00550941792597773,0,0
+"371","ASV_29","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Alcanivoracaceae1","Below Threshold",0.00401355765860011,NA,0
+"372","ASV_290","Water_60",0.136332651670075,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","Terasakiellaceae","Below Threshold",0.222758795215049,0,0
+"373","ASV_290","Water_9",0.0402942976106974,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","Terasakiellaceae","Below Threshold",0.0290685034003762,0,0
+"374","ASV_290","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","Terasakiellaceae","Below Threshold",0.00197377959450831,0,0
+"375","ASV_294","Water_60",0.180720026632425,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.163667846134546,0,0
+"376","ASV_294","Anterior_60",0.109502951818701,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.0923118261478025,0.0923118261478025,0
+"377","ASV_294","Water_35",0.0187411314288774,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",NA,0,0
+"378","ASV_294","Water_9",0.00746190696494396,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.00393752881056895,0,0
+"379","ASV_294","Precipitates_60",0.00264568929024975,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.00814507786300906,NA,0
+"380","ASV_296","Water_9",0.155207664870834,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0195754224431157,0,0
+"381","ASV_296","Water_35",0.0133865224491981,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"382","ASV_296","Water_60",0.0015852633915125,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00270485017188862,0,0
+"383","ASV_3","Anterior_60",41.56827270996,NA,NA,60,NA,"Anterior_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",32.1242675191426,22.0006932583538,5.56995976754582
+"384","ASV_3","Precipitates_60",23.5686820939749,NA,NA,60,NA,"Precipitates_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",11.4224868587741,32.1242675191426,5.56995976754582
+"385","ASV_3","Precipitates_35",22.2857386176136,NA,NA,35,NA,"Precipitates_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",37.726368671272,14.3867369519663,5.56995976754582
+"386","ASV_3","Anterior_9",16.7209418837675,NA,NA,9,NA,"Anterior_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",14.3867369519663,6.63181213320294,5.56995976754582
+"387","ASV_3","Fluid_9",15.4553504529664,NA,NA,9,NA,"Fluid_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",6.41837633475209,NA,5.56995976754582
+"388","ASV_3","Anterior_35",12.2980894943275,NA,NA,35,NA,"Anterior_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",22.0006932583538,6.41837633475209,5.56995976754582
+"389","ASV_3","Posterior_9",8.7903539478802,NA,NA,9,NA,"Posterior_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",5.6229642926812,3.84688213920773,5.56995976754582
+"390","ASV_3","Fluid_35",5.56995976754582,NA,NA,35,NA,"Fluid_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",6.63181213320294,2.18964586444492,5.56995976754582
+"391","ASV_3","Posterior_35",2.58620689655172,NA,NA,35,NA,"Posterior_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",3.84688213920773,5.6229642926812,5.56995976754582
+"392","ASV_3","Posterior_60",1.28117135666895,NA,NA,60,NA,"Posterior_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",2.18964586444492,NA,5.56995976754582
+"393","ASV_3","Posterior_QC",0.72936660268714,NA,NA,NA,NA,"Posterior_QC","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",NA,37.726368671272,5.56995976754582
+"394","ASV_3","Water_60",0.0681663258350375,NA,NA,60,NA,"Water_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",0.105896991123894,11.4224868587741,5.56995976754582
+"395","ASV_3","Water_9",0.00746190696494396,NA,NA,9,NA,"Water_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",0.000399053313488735,NA,5.56995976754582
+"396","ASV_3","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Thaumasiovibrio",NA,0.105896991123894,5.56995976754582
+"397","ASV_30","Water_60",3.27356890347331,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",5.16778717901137,0,0
+"398","ASV_30","Anterior_60",0.209483907827081,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.176596536978405,0.176596536978405,0
+"399","ASV_30","Water_9",0.0179085767158655,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0000904115275614273,0,0
+"400","ASV_30","Precipitates_60",0.017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0386349404699034,0,0
+"401","ASV_30","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0025196398236433,NA,0
+"402","ASV_300","Water_35",0.155283660410699,NA,NA,35,NA,"Water_35","Bacteria","Other","Verrucomicrobiae","Verrucomicrobiales","Rubritaleaceae","Below Threshold",NA,0,0
+"403","ASV_300","Water_60",0.0760926427926,NA,NA,60,NA,"Water_60","Bacteria","Other","Verrucomicrobiae","Verrucomicrobiales","Rubritaleaceae","Below Threshold",0.0236409024807796,0,0
+"404","ASV_300","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Verrucomicrobiae","Verrucomicrobiales","Rubritaleaceae","Below Threshold",0.000918236320996287,0,0
+"405","ASV_302","Water_60",0.31071162473645,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.330346868416102,0,0
+"406","ASV_302","Anterior_60",0.00952199581032184,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.00802711531720022,0.00802711531720022,0
+"407","ASV_302","Water_35",0.00535460897967926,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",NA,0,0
+"408","ASV_302","Precipitates_60",0.00264568929024975,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.00503413853450999,0,0
+"409","ASV_303","Water_35",0.393563760006426,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Puniceispirillales","SAR116 clade","Below Threshold",NA,0,0
+"410","ASV_303","Water_60",0.0586547454859625,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Puniceispirillales","SAR116 clade","Below Threshold",0.022670820367958,0,0
+"411","ASV_303","Water_9",0.0298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Puniceispirillales","SAR116 clade","Below Threshold",0.0319522881223588,0,0
+"412","ASV_303","Precipitates_35",0.00106452059315087,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","Puniceispirillales","SAR116 clade","Below Threshold",0.00199505341304784,0,0
+"413","ASV_303","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Puniceispirillales","SAR116 clade","Below Threshold",0.00271502595433635,NA,0
+"414","ASV_31","Water_9",2.51018550300715,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",2.28431895176541,0,0
+"415","ASV_31","Water_60",0.486675861194337,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.300033437753284,0,0
+"416","ASV_31","Precipitates_60",0.00970086073091576,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00857112201833628,0,0
+"417","ASV_31","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"418","ASV_31","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00194951973388359,NA,0
+"419","ASV_311","Water_9",0.153715283477846,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Chitinophagales","Saprospiraceae","Below Threshold",0.147858442652525,0,0
+"420","ASV_315","Water_35",0.473882894701614,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Parvibaculales","PS1 clade","Below Threshold",NA,0,0
+"421","ASV_315","Water_60",0.0142673705236125,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Parvibaculales","PS1 clade","Below Threshold",0.0132849534009366,0,0
+"422","ASV_321","Fluid_60",7.97872340425532,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Comamonadaceae","Below Threshold",NA,0,0
+"423","ASV_321","Water_35",0.0160638269390378,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Comamonadaceae","Below Threshold",NA,0,0
+"424","ASV_331","Water_60",0.141088441844612,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0369084391261136,0,0
+"425","ASV_331","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0,0
+"426","ASV_334","Water_60",0.1395031784531,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Nitrincolaceae","Below Threshold",0.037339262071212,0,0
+"427","ASV_334","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Nitrincolaceae","Below Threshold",0.00252213861173687,0,0
+"428","ASV_335","Water_35",0.139219833471661,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",NA,0,0
+"429","ASV_335","Water_9",0.0313400092527646,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",0.0164204031384488,0,0
+"430","ASV_335","Water_60",0.0253642142642,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade I","Below Threshold",0.0104766529350173,0,0
+"431","ASV_340","Water_35",0.21953896816685,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Chitinophagales","Saprospiraceae","Below Threshold",NA,0,0
+"432","ASV_340","Water_60",0.00634105356605,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Chitinophagales","Saprospiraceae","Below Threshold",0.00264448940437292,0,0
+"433","ASV_352","Water_35",0.160638269390378,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",NA,0,0
+"434","ASV_352","Water_60",0.0237789508726875,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.00481784502751831,0,0
+"435","ASV_352","Water_9",0.0104466697509215,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.004645223909985,0,0
+"436","ASV_352","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.00271502595433635,0,0
+"437","ASV_36","Water_60",3.08016676970879,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",1.00749083940254,0,0
+"438","ASV_36","Anterior_60",0.395162826128356,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.333125285663809,0.333125285663809,0
+"439","ASV_36","Water_35",0.0321276538780756,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",NA,0,0
+"440","ASV_36","Water_9",0.0268628650737983,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.00230390835337099,0,0
+"441","ASV_36","Precipitates_60",0.0123465500211655,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.0195564670704768,NA,0
+"442","ASV_36","Fluid_9",0.002724610040188,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.0050392796472866,0.0050392796472866,0
+"443","ASV_375","Fluid_60",4.16666666666667,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Below Threshold",NA,0.0389287819244194,0.00535460897967926
+"444","ASV_375","Posterior_60",0.205902539464653,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Below Threshold",1.02141993136989,0.01136292598287,0.00535460897967926
+"445","ASV_375","Posterior_35",0.0735912531539109,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Below Threshold",0.0556552742702704,0.0855711108393263,0.00535460897967926
+"446","ASV_375","Posterior_QC",0.0383877159309021,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Below Threshold",NA,0.00288487617643345,0.00535460897967926
+"447","ASV_375","Anterior_35",0.025304710893678,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Below Threshold",0.0389287819244194,NA,0.00535460897967926
+"448","ASV_375","Posterior_9",0.0129651238169325,NA,NA,9,NA,"Posterior_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Below Threshold",0.0102449548129027,0,0.00535460897967926
+"449","ASV_375","Anterior_9",0.0125250501002004,NA,NA,9,NA,"Anterior_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Below Threshold",0.0855711108393263,0.0556552742702704,0.00535460897967926
+"450","ASV_375","Water_35",0.00535460897967926,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Below Threshold",NA,1.02141993136989,0.00535460897967926
+"451","ASV_375","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Below Threshold",0.01136292598287,0.0102449548129027,0.00535460897967926
+"452","ASV_375","Fluid_35",0.000894054537326777,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Enterobacteriaceae","Below Threshold",0.00288487617643345,NA,0.00535460897967926
+"453","ASV_382","Water_60",0.126821071321,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.166026775233987,0,0
+"454","ASV_382","Water_9",0.0447714417896638,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.0236251728634137,0,0
+"455","ASV_382","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.00271502595433635,0,0
+"456","ASV_384","Water_60",0.0935305400992375,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.155556202211223,0,0
+"457","ASV_384","Water_9",0.0179085767158655,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0302656633408424,0,0
+"458","ASV_384","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"459","ASV_384","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00543005190867271,0,0
+"460","ASV_390","Water_60",0.106212647231337,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.171744272876747,0,0
+"461","ASV_390","Water_9",0.00596952557195517,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.0100885544469475,0,0
+"462","ASV_390","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.00394755918901662,0,0
+"463","ASV_393","Water_60",0.0776779061841125,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Stappiaceae","Below Threshold",0.030597635167268,0,0
+"464","ASV_393","Water_9",0.0283552464667871,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Stappiaceae","Below Threshold",0.0175645587545966,0,0
+"465","ASV_393","Precipitates_60",0.003527585720333,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Stappiaceae","Below Threshold",0.0047839266006901,0,0
+"466","ASV_395","Water_60",0.10779791062285,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0247516615347717,0,0
+"467","ASV_395","Water_9",0.00596952557195517,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00725777404928329,0,0
+"468","ASV_398","Water_60",0.149014758802175,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.0519010635985214,0,0
+"469","ASV_398","Water_35",0.00535460897967926,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",NA,0.0375390292060875,0
+"470","ASV_398","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.0375390292060875,0,0
+"471","ASV_398","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.00183647264199257,0,0
+"472","ASV_4","Anterior_35",82.8265362068238,NA,NA,35,NA,"Anterior_35","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",35.9341628354552,35.9341628354552,4.4729677168417
+"473","ASV_4","Anterior_9",82.439879759519,NA,NA,9,NA,"Anterior_9","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",14.7485942557291,32.3554198716328,4.4729677168417
+"474","ASV_4","Anterior_60",52.6518758331746,NA,NA,60,NA,"Anterior_60","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",32.3554198716328,14.7485942557291,4.4729677168417
+"475","ASV_4","Posterior_35",15.3805719091674,NA,NA,35,NA,"Posterior_35","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",22.7075282578964,0.256472260136784,4.4729677168417
+"476","ASV_4","Posterior_QC",10.0191938579655,NA,NA,NA,NA,"Posterior_QC","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",NA,NA,4.4729677168417
+"477","ASV_4","Fluid_9",9.32906477760371,NA,NA,9,NA,"Fluid_9","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",6.9207610887844,6.9207610887844,4.4729677168417
+"478","ASV_4","Precipitates_60",6.91054042613236,NA,NA,60,NA,"Precipitates_60","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",8.86280903458733,22.7075282578964,4.4729677168417
+"479","ASV_4","Posterior_9",4.4729677168417,NA,NA,9,NA,"Posterior_9","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",2.94990272878497,6.95187416248239,4.4729677168417
+"480","ASV_4","Precipitates_35",4.10479140718977,NA,NA,35,NA,"Precipitates_35","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",7.07457989849144,2.94990272878497,4.4729677168417
+"481","ASV_4","Posterior_60",3.91214824982841,NA,NA,60,NA,"Posterior_60","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",6.95187416248239,NA,4.4729677168417
+"482","ASV_4","Fluid_60",3.10283687943262,NA,NA,60,NA,"Fluid_60","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",NA,7.07457989849144,4.4729677168417
+"483","ASV_4","Fluid_35",0.736700938757264,NA,NA,35,NA,"Fluid_35","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",0.256472260136784,8.86280903458733,4.4729677168417
+"484","ASV_4","Water_9",0.0119390511439103,NA,NA,9,NA,"Water_9","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",0.0158405267698372,NA,4.4729677168417
+"485","ASV_4","Water_35",0.00535460897967926,NA,NA,35,NA,"Water_35","Bacteria","Firmicutes","Bacilli","Mycoplasmatales","Mycoplasmataceae","Mycoplasma",NA,0,4.4729677168417
+"486","ASV_402","Water_60",0.0998715936652875,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.0758278302576854,0,0
+"487","ASV_402","Precipitates_60",0.00440948215041626,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.00459118160498144,0,0
+"488","ASV_402","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",NA,0,0
+"489","ASV_402","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.00181444351232082,0,0
+"490","ASV_403","Water_60",0.22193687481175,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","Thalassospiraceae","Below Threshold",0.0579676659718522,0,0
+"491","ASV_403","Water_9",0.0164161953228767,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","Thalassospiraceae","Below Threshold",0.0103971962328748,0.0375390292060875,0
+"492","ASV_403","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","Thalassospiraceae","Below Threshold",0.0375390292060875,0,0
+"493","ASV_403","Precipitates_60",0.00440948215041626,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","Thalassospiraceae","Below Threshold",0.0035269309218343,0,0
+"494","ASV_403","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Alphaproteobacteria","Rhodospirillales","Thalassospiraceae","Below Threshold",0.00194951973388359,NA,0
+"495","ASV_406","Water_60",0.168037919500325,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.0508032362747662,0,0
+"496","ASV_406","Water_35",0.133865224491981,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",NA,0.00802711531720022,0
+"497","ASV_406","Anterior_60",0.00952199581032184,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.00802711531720022,0,0
+"498","ASV_406","Water_9",0.00596952557195517,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.00725777404928329,0,0
+"499","ASV_406","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.000918236320996287,NA,0
+"500","ASV_409","Water_60",0.137917915061587,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0548083389645067,0,0
+"501","ASV_409","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00252213861173687,0,0
+"502","ASV_409","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.000918236320996287,0,0
+"503","ASV_41","Water_60",2.70921513609486,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Marinobacteraceae","Below Threshold",1.34285822426263,0,0
+"504","ASV_41","Water_9",0.140283850940946,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Marinobacteraceae","Below Threshold",0.020251923300381,0.0688564321810316,0
+"505","ASV_41","Anterior_60",0.0809369643877357,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Marinobacteraceae","Below Threshold",0.0688564321810316,0,0
+"506","ASV_41","Precipitates_60",0.0749611965570763,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Marinobacteraceae","Below Threshold",0.0522176443627562,0,0
+"507","ASV_41","Water_35",0.0294503493882359,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Marinobacteraceae","Below Threshold",NA,NA,0
+"508","ASV_412","Water_60",0.1395031784531,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.14811260862815,0,0
+"509","ASV_412","Water_9",0.00447714417896638,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.00322983371115291,0,0
+"510","ASV_42","Water_60",5.0601607457079,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Pseudoalteromonadaceae","Below Threshold",3.06934808039197,0,0
+"511","ASV_42","Anterior_60",0.380879832412874,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Pseudoalteromonadaceae","Below Threshold",0.268414024075955,0.268414024075955,0
+"512","ASV_42","Precipitates_60",0.0961267108790744,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Pseudoalteromonadaceae","Below Threshold",0.0550331949049098,0,0
+"513","ASV_42","Water_9",0.00895428835793275,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Pseudoalteromonadaceae","Below Threshold",0.0108866610739249,0,0
+"514","ASV_42","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Pseudoalteromonadaceae","Below Threshold",NA,NA,0
+"515","ASV_426","Water_60",0.098286330273775,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.155925821471406,0,0
+"516","ASV_426","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.000918236320996287,0,0
+"517","ASV_428","Water_35",0.1418971379615,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Below Threshold",NA,0,0
+"518","ASV_428","Water_60",0.009511580349075,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Below Threshold",0.00455762441524087,0,0
+"519","ASV_428","Water_9",0.00596952557195517,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Rhizobiaceae","Below Threshold",0.00575197232288977,0,0
+"520","ASV_433","Water_60",0.09511580349075,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.0380752785668919,0,0
+"521","ASV_433","Anterior_60",0.0523709769567701,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.0441491342446012,0.0441491342446012,0
+"522","ASV_433","Water_9",0.0283552464667871,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.00889139450648125,0,0
+"523","ASV_433","Water_35",0.00535460897967926,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",NA,0,0
+"524","ASV_433","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.00271502595433635,NA,0
+"525","ASV_434","Water_60",0.147429495410662,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0859213481558731,0,0
+"526","ASV_434","Water_35",0.0428368718374341,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"527","ASV_434","Water_9",0.00596952557195517,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0029211919252256,0,0
+"528","ASV_434","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00271502595433635,0,0
+"529","ASV_440","Water_60",0.0840189597501625,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Cytophagales","Flammeovirgaceae","Below Threshold",0.139247384846714,0,0
+"530","ASV_440","Anterior_60",0.0238049895258046,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Bacteroidia","Cytophagales","Flammeovirgaceae","Below Threshold",0.0200677882930005,0.0200677882930005,0
+"531","ASV_440","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Bacteroidia","Cytophagales","Flammeovirgaceae","Below Threshold",0.0025196398236433,0,0
+"532","ASV_440","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Cytophagales","Flammeovirgaceae","Below Threshold",0.00271502595433635,0,0
+"533","ASV_445","Water_60",0.142673705236125,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Oleiphilaceae","Below Threshold",0.110327649977368,0,0
+"534","ASV_445","Water_9",0.0537257301475965,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Oleiphilaceae","Below Threshold",0.051767750906008,0,0
+"535","ASV_445","Water_35",0.0374822628577548,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Oleiphilaceae","Below Threshold",NA,0,0
+"536","ASV_445","Precipitates_60",0.00440948215041626,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Oleiphilaceae","Below Threshold",0.00470273032815362,0,0
+"537","ASV_452","Posterior_QC",0.307101727447217,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",NA,0.0674219664487275,0.0062625250501002
+"538","ASV_452","Posterior_60",0.274536719286205,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",0.232646179660024,0.0375390292060875,0.0062625250501002
+"539","ASV_452","Fluid_60",0.177304964539007,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",NA,0.0909213022345867,0.0062625250501002
+"540","ASV_452","Posterior_35",0.0946173254835997,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",0.0619419181068066,0.00242360116358671,0.0062625250501002
+"541","ASV_452","Posterior_9",0.0518604952677298,NA,NA,9,NA,"Posterior_9","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",0.348757968526041,NA,0.0062625250501002
+"542","ASV_452","Anterior_35",0.033739614524904,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",0.0674219664487275,0,0.0062625250501002
+"543","ASV_452","Water_9",0.0164161953228767,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",0.0147337783569325,0.0619419181068066,0.0062625250501002
+"544","ASV_452","Anterior_9",0.0062625250501002,NA,NA,9,NA,"Anterior_9","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",0.0909213022345867,0.232646179660024,0.0062625250501002
+"545","ASV_452","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",0.0375390292060875,0.348757968526041,0.0062625250501002
+"546","ASV_452","Water_60",0.0015852633915125,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",0.00268497544151805,NA,0.0062625250501002
+"547","ASV_452","Fluid_35",0.000894054537326777,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Bacilli","Staphylococcales","Staphylococcaceae","Below Threshold",0.00242360116358671,0,0.0062625250501002
+"548","ASV_454","Water_60",0.134747388278562,NA,NA,60,NA,"Water_60","Bacteria","Other","Gracilibacteria","JGI 0000069-P22","JGI 0000069-P22_X","Below Threshold",0.13264876518639,0,0
+"549","ASV_454","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Gracilibacteria","JGI 0000069-P22","JGI 0000069-P22_X","Below Threshold",NA,0.073153902040068,0
+"550","ASV_454","Anterior_60",0.0142829937154828,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gracilibacteria","JGI 0000069-P22","JGI 0000069-P22_X","Below Threshold",0.073153902040068,0,0
+"551","ASV_454","Water_35",0.0133865224491981,NA,NA,35,NA,"Water_35","Bacteria","Other","Gracilibacteria","JGI 0000069-P22","JGI 0000069-P22_X","Below Threshold",NA,0,0
+"552","ASV_454","Water_9",0.00746190696494396,NA,NA,9,NA,"Water_9","Bacteria","Other","Gracilibacteria","JGI 0000069-P22","JGI 0000069-P22_X","Below Threshold",0.00473563543754642,NA,0
+"553","ASV_454","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gracilibacteria","JGI 0000069-P22","JGI 0000069-P22_X","Below Threshold",0.00183647264199257,0,0
+"554","ASV_46","Water_9",1.91323294581163,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",2.89946487669422,0,0
+"555","ASV_46","Water_35",0.495301330620331,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",NA,0.0160542306344004,0
+"556","ASV_46","Water_60",0.225107401594775,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.219278257784364,0,0
+"557","ASV_46","Anterior_60",0.0190439916206437,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.0160542306344004,0,0
+"558","ASV_46","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.0025196398236433,NA,0
+"559","ASV_46","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.000918236320996287,0.0025196398236433,0
+"560","ASV_465","Water_35",0.101737570613906,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rickettsiales","S25-593","Below Threshold",NA,0,0
+"561","ASV_465","Water_60",0.0174378973066375,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rickettsiales","S25-593","Below Threshold",0.0095240042183587,0,0
+"562","ASV_465","Water_9",0.0104466697509215,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rickettsiales","S25-593","Below Threshold",0.00836452246218806,0,0
+"563","ASV_474","Water_9",0.0805885952213948,NA,NA,9,NA,"Water_9","Bacteria","Other","Sericytochromatia","Sericytochromatia_X","Sericytochromatia_XX","Below Threshold",0.0841564995450985,0,0
+"564","ASV_481","Water_60",0.0396315847878125,NA,NA,60,NA,"Water_60","Bacteria","Other","Bdellovibrionia","Bdellovibrionales","Bdellovibrionaceae","Below Threshold",0.0630610955626479,0,0
+"565","ASV_481","Water_9",0.0388019162177086,NA,NA,9,NA,"Water_9","Bacteria","Other","Bdellovibrionia","Bdellovibrionales","Bdellovibrionaceae","Below Threshold",0.0428389491962837,0,0
+"566","ASV_481","Water_35",0.00535460897967926,NA,NA,35,NA,"Water_35","Bacteria","Other","Bdellovibrionia","Bdellovibrionales","Bdellovibrionaceae","Below Threshold",NA,0,0
+"567","ASV_482","Water_9",0.0805885952213948,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","NS9 marine group","Below Threshold",0.0806336211690936,0,0
+"568","ASV_482","Water_35",0.0696099167358304,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","NS9 marine group","Below Threshold",NA,0,0
+"569","ASV_482","Water_60",0.0126821071321,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","NS9 marine group","Below Threshold",0.0118496100426174,0,0
+"570","ASV_49","Water_35",8.48170062381195,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade III","Below Threshold",NA,0,0.001362305020094
+"571","ASV_49","Water_60",1.25077281590336,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade III","Below Threshold",0.215092661165954,0.036122018927401,0.001362305020094
+"572","ASV_49","Water_9",0.867073589326488,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade III","Below Threshold",0.425387272670033,0,0.001362305020094
+"573","ASV_49","Anterior_60",0.0428489811464483,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade III","Below Threshold",0.036122018927401,0.00727080349076013,0.001362305020094
+"574","ASV_49","Precipitates_60",0.0149922393114153,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade III","Below Threshold",0.0222747296097023,NA,0.001362305020094
+"575","ASV_49","Precipitates_35",0.0042580823726035,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade III","Below Threshold",0.00798021365219138,0.00194951973388359,0.001362305020094
+"576","ASV_49","Fluid_35",0.00268216361198033,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade III","Below Threshold",0.00727080349076013,0,0.001362305020094
+"577","ASV_49","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade III","Below Threshold",0.00194951973388359,0,0.001362305020094
+"578","ASV_5","Precipitates_60",54.8354381261465,NA,NA,60,NA,"Precipitates_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",6.99861954845523,2.94526767483632,0.851925266753827
+"579","ASV_5","Fluid_9",26.3115591580955,NA,NA,9,NA,"Fluid_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",27.7759534121369,0.104910224188172,0.851925266753827
+"580","ASV_5","Fluid_60",6.47163120567376,NA,NA,60,NA,"Fluid_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",NA,0.0119583734297768,0.851925266753827
+"581","ASV_5","Fluid_35",3.31515422440769,NA,NA,35,NA,"Fluid_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",3.08419991261157,3.08419991261157,0.851925266753827
+"582","ASV_5","Precipitates_35",2.8667539573553,NA,NA,35,NA,"Precipitates_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",2.92212921612476,NA,0.851925266753827
+"583","ASV_5","Water_9",1.60729476024893,NA,NA,9,NA,"Water_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",1.47608079736011,27.7759534121369,0.851925266753827
+"584","ASV_5","Water_60",0.99554540986985,NA,NA,60,NA,"Water_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",0.436733456725101,0.859296946561364,0.851925266753827
+"585","ASV_5","Anterior_35",0.851925266753827,NA,NA,35,NA,"Anterior_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",2.94526767483632,0.762374715176519,0.851925266753827
+"586","ASV_5","Posterior_35",0.557190916736754,NA,NA,35,NA,"Posterior_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",0.859296946561364,0.687270982239179,0.851925266753827
+"587","ASV_5","Posterior_QC",0.230326295585413,NA,NA,NA,NA,"Posterior_QC","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",NA,NA,0.851925266753827
+"588","ASV_5","Anterior_60",0.171395924585793,NA,NA,60,NA,"Anterior_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",0.104910224188172,2.92212921612476,0.851925266753827
+"589","ASV_5","Posterior_60",0.160146419583619,NA,NA,60,NA,"Posterior_60","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",0.762374715176519,6.99861954845523,0.851925266753827
+"590","ASV_5","Posterior_9",0.116686114352392,NA,NA,9,NA,"Posterior_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",0.687270982239179,NA,0.851925266753827
+"591","ASV_5","Water_35",0.0615780032663115,NA,NA,35,NA,"Water_35","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",NA,0.436733456725101,0.851925266753827
+"592","ASV_5","Anterior_9",0.0062625250501002,NA,NA,9,NA,"Anterior_9","Bacteria","Proteobacteria","Gammaproteobacteria","Enterobacterales","Vibrionaceae","Vibrio",0.0119583734297768,1.47608079736011,0.851925266753827
+"593","ASV_50","Water_35",1.82056705309095,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacilli","Bacillales","Bacillaceae","Below Threshold",NA,0,0
+"594","ASV_50","Water_9",1.16853463071022,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacilli","Bacillales","Bacillaceae","Below Threshold",1.38168003103068,0,0
+"595","ASV_50","Water_60",0.290103200646787,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacilli","Bacillales","Bacillaceae","Below Threshold",0.257542294519,0,0
+"596","ASV_50","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Bacilli","Bacillales","Bacillaceae","Below Threshold",NA,0,0
+"597","ASV_500","Water_9",0.0477562045756414,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0146963711536894,0,0
+"598","ASV_500","Water_60",0.0269494776557125,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0186607792223265,0,0
+"599","ASV_500","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"600","ASV_501","Water_35",0.0589006987764719,NA,NA,35,NA,"Water_35","Archaea","Other","Nanoarchaeia","Woesearchaeales","GW2011_GWC1_47_15","Below Threshold",NA,0,0
+"601","ASV_501","Water_60",0.03170526783025,NA,NA,60,NA,"Water_60","Archaea","Other","Nanoarchaeia","Woesearchaeales","GW2011_GWC1_47_15","Below Threshold",0.0211092712898317,0,0
+"602","ASV_501","Water_9",0.0283552464667871,NA,NA,9,NA,"Water_9","Archaea","Other","Nanoarchaeia","Woesearchaeales","GW2011_GWC1_47_15","Below Threshold",0.0171280982378649,0,0
+"603","ASV_505","Posterior_QC",0.191938579654511,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Campylobacteria","Campylobacterales","Campylobacterales_X","Below Threshold",NA,0.05868871859615,0
+"604","ASV_505","Posterior_35",0.147182506307822,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Campylobacteria","Campylobacterales","Campylobacterales_X","Below Threshold",0.111310548540541,0.5792376046537,0
+"605","ASV_505","Anterior_60",0.0952199581032184,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Campylobacteria","Campylobacterales","Campylobacterales_X","Below Threshold",0.5792376046537,0.0119583734297768,0
+"606","ASV_505","Posterior_60",0.0915122397620682,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Campylobacteria","Campylobacterales","Campylobacterales_X","Below Threshold",0.194557799221441,0,0
+"607","ASV_505","Anterior_35",0.016869807262452,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Campylobacteria","Campylobacterales","Campylobacterales_X","Below Threshold",0.05868871859615,NA,0
+"608","ASV_505","Anterior_9",0.0062625250501002,NA,NA,9,NA,"Anterior_9","Bacteria","Other","Campylobacteria","Campylobacterales","Campylobacterales_X","Below Threshold",0.0119583734297768,0,0
+"609","ASV_51","Water_60",1.57099602098889,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",2.48537146684021,0,0
+"610","ASV_51","Water_9",0.619338278090349,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.469922101371127,0,0
+"611","ASV_51","Water_35",0.00535460897967926,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0,0
+"612","ASV_51","Precipitates_60",0.00264568929024975,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00357793086369044,0,0
+"613","ASV_513","Fluid_60",3.10283687943262,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Below Threshold",NA,0,0
+"614","ASV_513","Posterior_60",0.0457561198810341,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Below Threshold",0.0972788996107204,0.036122018927401,0
+"615","ASV_513","Anterior_60",0.0428489811464483,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Below Threshold",0.036122018927401,0,0
+"616","ASV_513","Posterior_QC",0.0383877159309021,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Below Threshold",NA,0.00242360116358671,0
+"617","ASV_513","Fluid_35",0.000894054537326777,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Moraxellaceae","Below Threshold",0.00242360116358671,NA,0
+"618","ASV_516","Water_35",0.112446788573264,NA,NA,35,NA,"Water_35","Bacteria","Other","Planctomycetes","Pirellulales","Pirellulaceae","Below Threshold",NA,0.00470384772030003,0
+"619","ASV_516","Water_60",0.0649957990520125,NA,NA,60,NA,"Water_60","Bacteria","Other","Planctomycetes","Pirellulales","Pirellulaceae","Below Threshold",0.0218007151811497,0,0
+"620","ASV_516","Water_9",0.0283552464667871,NA,NA,9,NA,"Water_9","Bacteria","Other","Planctomycetes","Pirellulales","Pirellulaceae","Below Threshold",0.0084549339897495,0,0
+"621","ASV_516","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Planctomycetes","Pirellulales","Pirellulaceae","Below Threshold",0.00470384772030003,0,0
+"622","ASV_516","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Planctomycetes","Pirellulales","Pirellulaceae","Below Threshold",0.00183647264199257,NA,0
+"623","ASV_52","Water_60",2.53642142642,NA,NA,60,NA,"Water_60","Bacteria","Other","Bdellovibrionia","Bacteriovoracales","Bacteriovoracaceae","Below Threshold",1.29948701294274,0,0
+"624","ASV_52","Water_9",1.47148805348695,NA,NA,9,NA,"Water_9","Bacteria","Other","Bdellovibrionia","Bacteriovoracales","Bacteriovoracaceae","Below Threshold",0.83459088190657,0.0441491342446012,0
+"625","ASV_52","Water_35",0.0910283526545474,NA,NA,35,NA,"Water_35","Bacteria","Other","Bdellovibrionia","Bacteriovoracales","Bacteriovoracaceae","Below Threshold",NA,0,0
+"626","ASV_52","Anterior_60",0.0523709769567701,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Bdellovibrionia","Bacteriovoracales","Bacteriovoracaceae","Below Threshold",0.0441491342446012,0,0
+"627","ASV_52","Precipitates_60",0.0238112036122478,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bdellovibrionia","Bacteriovoracales","Bacteriovoracaceae","Below Threshold",0.0177300666094743,NA,0
+"628","ASV_523","Fluid_60",0.177304964539007,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Burkholderiaceae","Below Threshold",NA,0,0
+"629","ASV_523","Water_9",0.0477562045756414,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Burkholderiaceae","Below Threshold",0.0407158638980356,0,0
+"630","ASV_523","Water_35",0.0294503493882359,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Burkholderiaceae","Below Threshold",NA,0,0
+"631","ASV_523","Water_60",0.003170526783025,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Burkholderiaceae","Below Threshold",0.00269496777149823,0,0
+"632","ASV_536","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Crocinitomicaceae","Below Threshold",NA,0,0
+"633","ASV_536","Water_60",0.060240008877475,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Crocinitomicaceae","Below Threshold",0.0980196603510462,0,0
+"634","ASV_536","Water_35",0.0133865224491981,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Crocinitomicaceae","Below Threshold",NA,0,0
+"635","ASV_536","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Crocinitomicaceae","Below Threshold",0.00181444351232082,0,0
+"636","ASV_544","Water_9",0.0641723998985181,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0607495569400507,0,0
+"637","ASV_544","Water_60",0.0015852633915125,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00270485017188862,0,0
+"638","ASV_547","Posterior_60",0.434683138869824,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Spirochaetia","Spirochaetales","Spirochaetaceae","Below Threshold",0.808181374921058,0.00470384772030003,0
+"639","ASV_547","Posterior_QC",0.307101727447217,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Spirochaetia","Spirochaetales","Spirochaetaceae","Below Threshold",NA,0.196814253955953,0
+"640","ASV_547","Posterior_35",0.189234650967199,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Spirochaetia","Spirochaetales","Spirochaetaceae","Below Threshold",0.231351399051943,0.0837086140084379,0
+"641","ASV_547","Anterior_60",0.109502951818701,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Spirochaetia","Spirochaetales","Spirochaetaceae","Below Threshold",0.196814253955953,0,0
+"642","ASV_547","Anterior_9",0.0438376753507014,NA,NA,9,NA,"Anterior_9","Bacteria","Other","Spirochaetia","Spirochaetales","Spirochaetaceae","Below Threshold",0.0837086140084379,NA,0
+"643","ASV_547","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Spirochaetia","Spirochaetales","Spirochaetaceae","Below Threshold",0.00470384772030003,0,0
+"644","ASV_55","Water_60",2.50471615858975,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Oceanospirillaceae","Below Threshold",0.318422783343096,0,0
+"645","ASV_55","Anterior_60",0.219005903637402,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Oceanospirillaceae","Below Threshold",0.200859781590961,0.200859781590961,0
+"646","ASV_55","Water_9",0.00447714417896638,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Oceanospirillaceae","Below Threshold",0.00544333053696247,0,0
+"647","ASV_55","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Oceanospirillaceae","Below Threshold",0.00183647264199257,0,0
+"648","ASV_55","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Oceanospirillaceae","Below Threshold",0.0025196398236433,NA,0
+"649","ASV_556","Posterior_35",0.147182506307822,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Below Threshold",0.0861787013514873,0.00671961808358061,0.00447714417896638
+"650","ASV_556","Posterior_QC",0.115163147792706,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Below Threshold",NA,0.130893656860878,0.00447714417896638
+"651","ASV_556","Fluid_60",0.0886524822695035,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Below Threshold",NA,0.0119583734297768,0.00447714417896638
+"652","ASV_556","Anterior_60",0.0476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Below Threshold",0.130893656860878,0.00169771453117585,0.00447714417896638
+"653","ASV_556","Anterior_35",0.00843490363122601,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Below Threshold",0.00671961808358061,NA,0.00447714417896638
+"654","ASV_556","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Below Threshold",NA,0,0.00447714417896638
+"655","ASV_556","Anterior_9",0.0062625250501002,NA,NA,9,NA,"Anterior_9","Bacteria","Other","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Below Threshold",0.0119583734297768,0.0861787013514873,0.00447714417896638
+"656","ASV_556","Water_9",0.00447714417896638,NA,NA,9,NA,"Water_9","Bacteria","Other","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Below Threshold",0.00544333053696247,0,0.00447714417896638
+"657","ASV_556","Fluid_35",0.00178810907465355,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Below Threshold",0.00169771453117585,0,0.00447714417896638
+"658","ASV_556","Precipitates_35",0.00106452059315087,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Actinobacteria","Propionibacteriales","Propionibacteriaceae","Below Threshold",0.00199505341304784,NA,0.00447714417896638
+"659","ASV_558","Water_60",0.0903600133162125,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00743511944260894,0,0
+"660","ASV_558","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00197377959450831,0,0
+"661","ASV_56","Water_35",2.81384701882145,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Pseudohongiellaceae","Below Threshold",NA,0,0
+"662","ASV_56","Water_9",0.328323906457534,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Pseudohongiellaceae","Below Threshold",0.355811751470004,0,0
+"663","ASV_56","Water_60",0.264738986382587,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Pseudohongiellaceae","Below Threshold",0.199754322607396,0,0
+"664","ASV_56","Precipitates_60",0.00793706787074926,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Pseudohongiellaceae","Below Threshold",0.00413340382887569,0,0
+"665","ASV_562","Posterior_60",0.251658659345687,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Endozoicomonadaceae","Below Threshold",3.08293833062421,0.00470384772030003,0
+"666","ASV_562","Posterior_35",0.199747687132044,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Endozoicomonadaceae","Below Threshold",0.204225314694338,0.0327496051980644,0
+"667","ASV_562","Posterior_QC",0.191938579654511,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Endozoicomonadaceae","Below Threshold",NA,0,0
+"668","ASV_562","Anterior_60",0.0142829937154828,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Endozoicomonadaceae","Below Threshold",0.0327496051980644,0,0
+"669","ASV_562","Water_35",0.00535460897967926,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Endozoicomonadaceae","Below Threshold",NA,NA,0
+"670","ASV_562","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Endozoicomonadaceae","Below Threshold",0.00470384772030003,0,0
+"671","ASV_563","Posterior_35",0.126156433978133,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Cyanobacteriia","Chloroplast","Chloroplast_X","Below Threshold",0.154234266034628,0.0129762606414731,0
+"672","ASV_563","Water_35",0.123156006532623,NA,NA,35,NA,"Water_35","Bacteria","Other","Cyanobacteriia","Chloroplast","Chloroplast_X","Below Threshold",NA,0.112617087618263,0
+"673","ASV_563","Posterior_60",0.0457561198810341,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Cyanobacteriia","Chloroplast","Chloroplast_X","Below Threshold",0.560534241931675,0,0
+"674","ASV_563","Water_9",0.0313400092527646,NA,NA,9,NA,"Water_9","Bacteria","Other","Cyanobacteriia","Chloroplast","Chloroplast_X","Below Threshold",0.00526250748183961,0,0
+"675","ASV_563","Anterior_60",0.0142829937154828,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Cyanobacteriia","Chloroplast","Chloroplast_X","Below Threshold",0.112617087618263,NA,0
+"676","ASV_563","Anterior_35",0.00843490363122601,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Cyanobacteriia","Chloroplast","Chloroplast_X","Below Threshold",0.0129762606414731,0,0
+"677","ASV_563","Water_60",0.0015852633915125,NA,NA,60,NA,"Water_60","Bacteria","Other","Cyanobacteriia","Chloroplast","Chloroplast_X","Below Threshold",0.00285350797800438,0.154234266034628,0
+"678","ASV_580","Water_9",0.0328323906457534,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Stappiaceae","Below Threshold",0.055487049458211,0,0
+"679","ASV_580","Water_60",0.0142673705236125,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Stappiaceae","Below Threshold",0.0202047439185731,0,0
+"680","ASV_580","Fluid_35",0.00447027268663388,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Stappiaceae","Below Threshold",0.00424428632793961,0,0
+"681","ASV_580","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Stappiaceae","Below Threshold",NA,0.00424428632793961,0
+"682","ASV_580","Precipitates_35",0.00106452059315087,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Stappiaceae","Below Threshold",0.00120881219431508,NA,0
+"683","ASV_580","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhizobiales","Stappiaceae","Below Threshold",0.00197377959450831,0,0
+"684","ASV_59","Water_60",1.07956436962001,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Bacteroidales","Tannerellaceae","Below Threshold",1.22937732164535,0,0
+"685","ASV_59","Water_9",0.826779291715791,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Bacteroidales","Tannerellaceae","Below Threshold",1.39726479090222,0,0
+"686","ASV_59","Precipitates_60",0.0370396500634965,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Bacteroidales","Tannerellaceae","Below Threshold",0.0457761556914642,0,0
+"687","ASV_59","Fluid_35",0.0259275815824765,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Bacteroidia","Bacteroidales","Tannerellaceae","Below Threshold",0.0246168607020498,0.0246168607020498,0
+"688","ASV_59","Precipitates_35",0.0042580823726035,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Bacteroidia","Bacteroidales","Tannerellaceae","Below Threshold",0.00483524877726031,NA,0
+"689","ASV_6","Posterior_9",57.007649423052,NA,NA,9,NA,"Posterior_9","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",44.7547629715001,0.00671961808358061,0.571951498512926
+"690","ASV_6","Posterior_35",33.5891505466779,NA,NA,35,NA,"Posterior_35","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",31.8063969904303,3.50483559869024,0.571951498512926
+"691","ASV_6","Posterior_QC",16.8905950095969,NA,NA,NA,NA,"Posterior_QC","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",NA,0.257862281669368,0.571951498512926
+"692","ASV_6","Fluid_9",11.2703494312377,NA,NA,9,NA,"Fluid_9","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",19.3594365747306,13.9273383909047,0.571951498512926
+"693","ASV_6","Fluid_35",5.87840858292356,NA,NA,35,NA,"Fluid_35","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",13.9273383909047,NA,0.571951498512926
+"694","ASV_6","Fluid_60",1.06382978723404,NA,NA,60,NA,"Fluid_60","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",NA,19.3594365747306,0.571951498512926
+"695","ASV_6","Precipitates_35",0.719615920969991,NA,NA,35,NA,"Precipitates_35","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",1.33904451039825,31.8063969904303,0.571951498512926
+"696","ASV_6","Posterior_60",0.571951498512926,NA,NA,60,NA,"Posterior_60","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",0.846363559574969,0.846363559574969,0.571951498512926
+"697","ASV_6","Anterior_60",0.504665777947058,NA,NA,60,NA,"Anterior_60","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",3.50483559869024,44.7547629715001,0.571951498512926
+"698","ASV_6","Precipitates_60",0.201072386058981,NA,NA,60,NA,"Precipitates_60","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",0.193246530783238,NA,0.571951498512926
+"699","ASV_6","Anterior_9",0.0563627254509018,NA,NA,9,NA,"Anterior_9","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",0.257862281669368,1.33904451039825,0.571951498512926
+"700","ASV_6","Water_9",0.0313400092527646,NA,NA,9,NA,"Water_9","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",0.0486283287224165,0.193246530783238,0.571951498512926
+"701","ASV_6","Water_35",0.0160638269390378,NA,NA,35,NA,"Water_35","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",NA,NA,0.571951498512926
+"702","ASV_6","Water_60",0.0142673705236125,NA,NA,60,NA,"Water_60","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",0.00521214007958686,0.00521214007958686,0.571951498512926
+"703","ASV_6","Anterior_35",0.00843490363122601,NA,NA,35,NA,"Anterior_35","Bacteria","Firmicutes","Clostridia","Clostridia vadinBB60 group","Clostridia vadinBB60 group_X","Clostridia vadinBB60 group_XX",0.00671961808358061,0.0486283287224165,0.571951498512926
+"704","ASV_616","Water_35",0.112446788573264,NA,NA,35,NA,"Water_35","Bacteria","Other","Gracilibacteria","Gracilibacteria_X","Gracilibacteria_XX","Below Threshold",NA,0,0
+"705","ASV_616","Water_60",0.03170526783025,NA,NA,60,NA,"Water_60","Bacteria","Other","Gracilibacteria","Gracilibacteria_X","Gracilibacteria_XX","Below Threshold",0.00665938779119583,0,0
+"706","ASV_616","Water_9",0.0194009581088543,NA,NA,9,NA,"Water_9","Bacteria","Other","Gracilibacteria","Gracilibacteria_X","Gracilibacteria_XX","Below Threshold",0.00624143716393994,0,0
+"707","ASV_64","Water_60",1.40454336488007,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Parvibaculales","Parvibaculaceae","Below Threshold",1.46707060330999,0,0
+"708","ASV_64","Water_9",0.0999895533302491,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Parvibaculales","Parvibaculaceae","Below Threshold",0.121280883621735,0,0
+"709","ASV_64","Precipitates_60",0.00617327501058276,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Parvibaculales","Parvibaculaceae","Below Threshold",0.00477146090348535,0,0
+"710","ASV_64","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Parvibaculales","Parvibaculaceae","Below Threshold",NA,0,0
+"711","ASV_64","Precipitates_35",0.00106452059315087,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","Parvibaculales","Parvibaculaceae","Below Threshold",0.00120881219431508,NA,0
+"712","ASV_643","Water_60",0.047557901745375,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0562494264001646,0,0
+"713","ASV_643","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00183647264199257,0,0
+"714","ASV_65","Water_35",2.53540735187813,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",NA,0,0
+"715","ASV_65","Water_60",0.0206084240896625,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.0208236846222962,0.01136292598287,0
+"716","ASV_65","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.01136292598287,0,0
+"717","ASV_65","Water_9",0.00298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.000707695099416043,0,0
+"718","ASV_660","Water_60",0.168037919500325,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0658863538333123,0,0
+"719","ASV_660","Water_9",0.035817153431731,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0218637336754113,0,0
+"720","ASV_660","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00183647264199257,0,0
+"721","ASV_669","Water_60",0.041216848179325,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.0167095292439606,0,0
+"722","ASV_669","Anterior_60",0.0142829937154828,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.0120406729758003,0.0120406729758003,0
+"723","ASV_669","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.00252213861173687,0,0
+"724","ASV_672","Water_35",0.0294503493882359,NA,NA,35,NA,"Water_35","Bacteria","Other","Parcubacteria","Parcubacteria_X","Parcubacteria_XX","Below Threshold",NA,0,0
+"725","ASV_672","Water_9",0.0164161953228767,NA,NA,9,NA,"Water_9","Bacteria","Other","Parcubacteria","Parcubacteria_X","Parcubacteria_XX","Below Threshold",0.00606061410881708,0,0
+"726","ASV_672","Water_60",0.0126821071321,NA,NA,60,NA,"Water_60","Bacteria","Other","Parcubacteria","Parcubacteria_X","Parcubacteria_XX","Below Threshold",0.00237828307806619,0,0
+"727","ASV_681","Water_35",0.0829964391850285,NA,NA,35,NA,"Water_35","Bacteria","Other","Bdellovibrionia","Bacteriovoracales","Bacteriovoracaceae","Below Threshold",NA,0,0
+"728","ASV_681","Water_60",0.03170526783025,NA,NA,60,NA,"Water_60","Bacteria","Other","Bdellovibrionia","Bacteriovoracales","Bacteriovoracaceae","Below Threshold",0.0295634200045253,0,0
+"729","ASV_681","Water_9",0.00596952557195517,NA,NA,9,NA,"Water_9","Bacteria","Other","Bdellovibrionia","Bacteriovoracales","Bacteriovoracaceae","Below Threshold",0.00141539019883209,0,0
+"730","ASV_69","Water_9",1.30135657468623,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",1.63554919330705,0,0
+"731","ASV_69","Water_35",0.131187920002142,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",NA,0,0
+"732","ASV_69","Water_60",0.003170526783025,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",0.00540970034377724,0,0
+"733","ASV_698","Fluid_60",0.443262411347518,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Actinobacteria","Micrococcales","Microbacteriaceae","Below Threshold",NA,0,0
+"734","ASV_698","Water_35",0.0321276538780756,NA,NA,35,NA,"Water_35","Bacteria","Other","Actinobacteria","Micrococcales","Microbacteriaceae","Below Threshold",NA,0,0
+"735","ASV_698","Water_60",0.0126821071321,NA,NA,60,NA,"Water_60","Bacteria","Other","Actinobacteria","Micrococcales","Microbacteriaceae","Below Threshold",0.00719724450968896,0,0
+"736","ASV_698","Water_9",0.00447714417896638,NA,NA,9,NA,"Water_9","Bacteria","Other","Actinobacteria","Micrococcales","Microbacteriaceae","Below Threshold",0.00110674841290478,0,0
+"737","ASV_71","Water_60",1.36332651670075,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.321534419205961,0,0
+"738","ASV_71","Precipitates_60",0.0167560321715818,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00266759559643921,0,0
+"739","ASV_71","Water_9",0.0119390511439103,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0115039446457795,0,0
+"740","ASV_711","Fluid_60",0.177304964539007,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",NA,0,0
+"741","ASV_711","Water_35",0.0348049583679152,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",NA,0,0
+"742","ASV_711","Posterior_60",0.022878059940517,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",0.0486394498053602,0,0
+"743","ASV_711","Water_9",0.00895428835793275,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",0.00221349682580956,0,0
+"744","ASV_711","Water_60",0.0079263169575625,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",0.00717511506231283,NA,0
+"745","ASV_712","Water_60",0.1141389641889,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Cytophagales","Cyclobacteriaceae","Below Threshold",0.0716700457814202,0,0
+"746","ASV_712","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Cytophagales","Cyclobacteriaceae","Below Threshold",0.00197377959450831,0,0
+"747","ASV_72","Water_35",3.14583277556156,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",NA,0,0
+"748","ASV_72","Water_60",0.242545298901412,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.021124124757011,0,0
+"749","ASV_72","Water_9",0.0238781022878207,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.00999814291938603,0,0
+"750","ASV_72","Precipitates_60",0.00529137858049951,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.00945837351531967,0,0
+"751","ASV_72","Precipitates_35",0.00106452059315087,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.00199505341304784,NA,0
+"752","ASV_73","Water_60",1.11761069101631,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.431646255999883,0,0
+"753","ASV_73","Anterior_60",0.195200914111598,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.164555864002605,0.164555864002605,0
+"754","ASV_73","Water_35",0.179379400819255,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",NA,0,0
+"755","ASV_73","Water_9",0.0313400092527646,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.0312820002261857,0,0
+"756","ASV_73","Precipitates_60",0.0264568929024975,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.0250526677648319,NA,0
+"757","ASV_73","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Cellvibrionaceae","Below Threshold",0.0025196398236433,0.0025196398236433,0
+"758","ASV_744","Fluid_60",1.77304964539007,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Alphaproteobacteria","Reyranellales","Reyranellaceae","Below Threshold",NA,0,0
+"759","ASV_744","Posterior_9",0.0518604952677298,NA,NA,9,NA,"Posterior_9","Bacteria","Other","Alphaproteobacteria","Reyranellales","Reyranellaceae","Below Threshold",0.348757968526041,0,0
+"760","ASV_744","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Reyranellales","Reyranellaceae","Below Threshold",NA,0,0
+"761","ASV_749","Water_35",0.0535460897967926,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Nitrincolaceae","Below Threshold",NA,0,0
+"762","ASV_749","Water_9",0.00746190696494396,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Nitrincolaceae","Below Threshold",0.00907221756160411,0,0
+"763","ASV_76","Water_60",1.10968437405875,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.430300144286408,0,0
+"764","ASV_76","Water_9",0.0940200277582939,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0331338509417496,0.00802711531720022,0
+"765","ASV_76","Water_35",0.0642553077561511,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"766","ASV_76","Precipitates_60",0.021165514321998,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00851132926123871,0,0
+"767","ASV_76","Anterior_60",0.00952199581032184,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00802711531720022,NA,0
+"768","ASV_760","Water_60",0.028534741047225,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.0167735723512449,0,0
+"769","ASV_760","Anterior_60",0.0190439916206437,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.0160542306344004,0.0160542306344004,0
+"770","ASV_760","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Saccharospirillaceae","Below Threshold",0.00239196330034505,0,0
+"771","ASV_763","Water_35",0.0562233942866322,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rickettsiales","Mitochondria","Below Threshold",NA,0,0
+"772","ASV_763","Water_60",0.0047557901745375,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rickettsiales","Mitochondria","Below Threshold",0.00811455051566586,0,0
+"773","ASV_774","Fluid_60",0.354609929078014,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Actinobacteria","Corynebacteriales","Corynebacteriaceae","Below Threshold",NA,0,0
+"774","ASV_774","Posterior_QC",0.0767754318618042,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Actinobacteria","Corynebacteriales","Corynebacteriaceae","Below Threshold",NA,0,0
+"775","ASV_774","Posterior_60",0.0686341798215511,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Actinobacteria","Corynebacteriales","Corynebacteriaceae","Below Threshold",0.840801362897513,0,0
+"776","ASV_774","Posterior_35",0.0420521446593776,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Actinobacteria","Corynebacteriales","Corynebacteriaceae","Below Threshold",0.0648525997404803,0,0
+"777","ASV_78","Water_9",1.05660602623606,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0987436908512603,0,0
+"778","ASV_78","Water_60",0.1141389641889,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.193318231789299,0,0
+"779","ASV_78","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0,0
+"780","ASV_793","Water_60",0.0269494776557125,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0156271013652273,0,0
+"781","ASV_793","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0.00401355765860011,0
+"782","ASV_793","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00401355765860011,0,0
+"783","ASV_793","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.000918236320996287,0,0
+"784","ASV_794","Water_60",0.0301200044387375,NA,NA,60,NA,"Water_60","Bacteria","Other","Campylobacteria","Campylobacterales","Arcobacteraceae","Below Threshold",0.00999316830092599,0,0
+"785","ASV_794","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Campylobacteria","Campylobacterales","Arcobacteraceae","Below Threshold",NA,0,0
+"786","ASV_794","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Campylobacteria","Campylobacterales","Arcobacteraceae","Below Threshold",0.00239196330034505,0,0
+"787","ASV_8","Water_9",16.4699210530243,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",4.66830001241188,0.0263531085157599,0.008173830120564
+"788","ASV_8","Water_35",8.59147010789537,NA,NA,35,NA,"Water_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",NA,0.355130625963927,0.008173830120564
+"789","ASV_8","Water_60",8.52871704633725,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",1.54859026235572,0,0.008173830120564
+"790","ASV_8","Anterior_60",0.51418777375738,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.355130625963927,0,0.008173830120564
+"791","ASV_8","Precipitates_60",0.18167066459715,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.156645604707547,NA,0.008173830120564
+"792","ASV_8","Posterior_60",0.022878059940517,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.0193871816383353,0.00433907323380038,0.008173830120564
+"793","ASV_8","Anterior_35",0.012652355446839,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.0263531085157599,0,0.008173830120564
+"794","ASV_8","Fluid_9",0.008173830120564,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.00433907323380038,0.0193871816383353,0.008173830120564
+"795","ASV_8","Precipitates_35",0.00638712355890525,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Gammaproteobacteria","Enterobacterales","Alteromonadaceae","Below Threshold",0.0119703204782871,0,0.008173830120564
+"796","ASV_816","Fluid_60",0.797872340425532,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Bacteroidia","Bacteroidales","Prevotellaceae","Below Threshold",NA,0,0
+"797","ASV_816","Anterior_60",0.0571319748619311,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Bacteroidia","Bacteroidales","Prevotellaceae","Below Threshold",0.0481626919032013,0.0481626919032013,0
+"798","ASV_85","Water_35",2.0401060212578,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade II","Below Threshold",NA,0,0
+"799","ASV_85","Water_9",0.388019162177086,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade II","Below Threshold",0.246253042752414,0,0
+"800","ASV_85","Water_60",0.269494776557125,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade II","Below Threshold",0.0254728101293916,0,0
+"801","ASV_85","Precipitates_60",0.00440948215041626,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade II","Below Threshold",0.0104313408097828,0.00484720232717342,0
+"802","ASV_85","Fluid_35",0.00178810907465355,NA,NA,35,NA,"Fluid_35","Bacteria","Other","Alphaproteobacteria","SAR11 clade","Clade II","Below Threshold",0.00484720232717342,NA,0
+"803","ASV_851","Water_35",0.021418435918717,NA,NA,35,NA,"Water_35","Bacteria","Other","SAR324 clade(Marine group B)_X","SAR324 clade(Marine group B)_XX","SAR324 clade(Marine group B)_XXX","Below Threshold",NA,0,0
+"804","ASV_851","Water_60",0.015852633915125,NA,NA,60,NA,"Water_60","Bacteria","Other","SAR324 clade(Marine group B)_X","SAR324 clade(Marine group B)_XX","SAR324 clade(Marine group B)_XXX","Below Threshold",0.00986945603950631,0,0
+"805","ASV_851","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Other","SAR324 clade(Marine group B)_X","SAR324 clade(Marine group B)_XX","SAR324 clade(Marine group B)_XXX","Below Threshold",0.00252213861173687,0,0
+"806","ASV_852","Water_35",0.021418435918717,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteria_XX","Bacteria_XXX","Bacteria_XXXX","Below Threshold",NA,0,0
+"807","ASV_852","Water_60",0.0142673705236125,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteria_XX","Bacteria_XXX","Bacteria_XXXX","Below Threshold",0.0100373144548353,0,0
+"808","ASV_852","Water_9",0.00298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteria_XX","Bacteria_XXX","Bacteria_XXXX","Below Threshold",0.000707695099416043,0,0
+"809","ASV_853","Water_35",0.0401595673475944,NA,NA,35,NA,"Water_35","Bacteria","Other","Marinimicrobia (SAR406 clade)_X","Marinimicrobia (SAR406 clade)_XX","Marinimicrobia (SAR406 clade)_XXX","Below Threshold",NA,0,0
+"810","ASV_853","Water_60",0.003170526783025,NA,NA,60,NA,"Water_60","Bacteria","Other","Marinimicrobia (SAR406 clade)_X","Marinimicrobia (SAR406 clade)_XX","Marinimicrobia (SAR406 clade)_XXX","Below Threshold",0.00570701595600876,0,0
+"811","ASV_853","Water_9",0.00298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Marinimicrobia (SAR406 clade)_X","Marinimicrobia (SAR406 clade)_XX","Marinimicrobia (SAR406 clade)_XXX","Below Threshold",0.00504427722347373,0,0
+"812","ASV_855","Water_9",0.0223857208948319,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00313942218359148,0,0
+"813","ASV_855","Water_35",0.0107092179593585,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"814","ASV_86","Water_35",3.44033626944392,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"815","ASV_86","Water_60",0.0840189597501625,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.0812351747979621,0.00802711531720022,0
+"816","ASV_86","Anterior_60",0.00952199581032184,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00802711531720022,0,0
+"817","ASV_86","Water_9",0.00447714417896638,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00110674841290478,0,0
+"818","ASV_86","Precipitates_35",0.00212904118630175,NA,NA,35,NA,"Precipitates_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00399010682609569,NA,0
+"819","ASV_86","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00197377959450831,0,0
+"820","ASV_871","Fluid_60",1.06382978723404,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Bacilli","Lactobacillales","Streptococcaceae","Below Threshold",NA,0,0
+"821","ASV_871","Posterior_QC",0.115163147792706,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Bacilli","Lactobacillales","Streptococcaceae","Below Threshold",NA,0,0
+"822","ASV_871","Posterior_60",0.0457561198810341,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Bacilli","Lactobacillales","Streptococcaceae","Below Threshold",0.560534241931675,0.0119583734297768,0
+"823","ASV_871","Anterior_9",0.0062625250501002,NA,NA,9,NA,"Anterior_9","Bacteria","Other","Bacilli","Lactobacillales","Streptococcaceae","Below Threshold",0.0119583734297768,0,0
+"824","ASV_872","Fluid_60",0.531914893617021,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",NA,0,0
+"825","ASV_872","Posterior_QC",0.0383877159309021,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",NA,0,0
+"826","ASV_872","Water_9",0.0134314325368991,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",0.0163299916108874,0,0
+"827","ASV_872","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",NA,0,0
+"828","ASV_872","Water_60",0.0015852633915125,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Sphingomonadales","Sphingomonadaceae","Below Threshold",0.00268497544151805,NA,0
+"829","ASV_897","Fluid_60",0.265957446808511,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Below Threshold",NA,0.0146721796490375,0
+"830","ASV_897","Posterior_QC",0.115163147792706,NA,NA,NA,NA,"Posterior_QC","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Below Threshold",NA,0.029676160970761,0
+"831","ASV_897","Anterior_60",0.0380879832412874,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Below Threshold",0.029676160970761,0.0909213022345867,0
+"832","ASV_897","Posterior_35",0.0105130361648444,NA,NA,35,NA,"Posterior_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Below Threshold",0.0128528555028857,0,0
+"833","ASV_897","Anterior_9",0.0062625250501002,NA,NA,9,NA,"Anterior_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Below Threshold",0.0909213022345867,NA,0
+"834","ASV_897","Anterior_35",0.00421745181561301,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Pseudomonadaceae","Below Threshold",0.0146721796490375,0,0
+"835","ASV_90","Posterior_35",3.12237174095879,NA,NA,35,NA,"Posterior_35","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",4.81530553073066,0.0423346294827003,0.0379570663405171
+"836","ASV_90","Posterior_60",1.00663463738275,NA,NA,60,NA,"Posterior_60","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",9.72328116225962,0.0375390292060875,0.0379570663405171
+"837","ASV_90","Posterior_QC",0.614203454894434,NA,NA,NA,NA,"Posterior_QC","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",NA,0.00549595686996312,0.0379570663405171
+"838","ASV_90","Posterior_9",0.58343057176196,NA,NA,9,NA,"Posterior_9","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",3.24148601730707,0.0673947680410282,0.0379570663405171
+"839","ASV_90","Fluid_35",0.0777827447474296,NA,NA,35,NA,"Fluid_35","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",0.0673947680410282,NA,0.0379570663405171
+"840","ASV_90","Precipitates_60",0.0582051643854946,NA,NA,60,NA,"Precipitates_60","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",0.060603597185755,0.0305061590902227,0.0379570663405171
+"841","ASV_90","Fluid_9",0.04086915060282,NA,NA,9,NA,"Fluid_9","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",0.0305061590902227,4.81530553073066,0.0379570663405171
+"842","ASV_90","Anterior_35",0.0379570663405171,NA,NA,35,NA,"Anterior_35","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",0.0423346294827003,9.72328116225962,0.0379570663405171
+"843","ASV_90","Precipitates_35",0.0223549324561684,NA,NA,35,NA,"Precipitates_35","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",0.0253850560806166,3.24148601730707,0.0379570663405171
+"844","ASV_90","Anterior_9",0.0062625250501002,NA,NA,9,NA,"Anterior_9","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",0.00549595686996312,NA,0.0379570663405171
+"845","ASV_90","Anterior_60",0.00476099790516092,NA,NA,60,NA,"Anterior_60","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",0.0375390292060875,0.0253850560806166,0.0379570663405171
+"846","ASV_90","Water_9",0.00149238139298879,NA,NA,9,NA,"Water_9","Bacteria","Desulfobacterota","Desulfovibrionia","Desulfovibrionales","Desulfovibrionaceae","Desulfovibrionaceae_X",0.00252213861173687,0.060603597185755,0.0379570663405171
+"847","ASV_903","Water_35",0.0187411314288774,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",NA,0,0
+"848","ASV_903","Water_60",0.0126821071321,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00237828307806619,0,0
+"849","ASV_903","Water_9",0.00298476278597758,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00362888702464164,0,0
+"850","ASV_906","Water_9",0.0253704836808095,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00916262908916553,0,0
+"851","ASV_91","Water_9",0.90139836136523,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",1.44097666113197,0,0
+"852","ASV_91","Water_35",0.0696099167358304,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",NA,0,0
+"853","ASV_91","Water_60",0.060240008877475,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.00425278918888335,0,0
+"854","ASV_91","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Alphaproteobacteria","Caulobacterales","Hyphomonadaceae","Below Threshold",0.00183647264199257,0,0
+"855","ASV_928","Water_35",0.021418435918717,NA,NA,35,NA,"Water_35","Archaea","Other","Nanoarchaeia","Woesearchaeales","Woesearchaeales_X","Below Threshold",NA,0,0
+"856","ASV_928","Water_60",0.009511580349075,NA,NA,60,NA,"Water_60","Archaea","Other","Nanoarchaeia","Woesearchaeales","Woesearchaeales_X","Below Threshold",0.00930111270108527,0,0
+"857","ASV_928","Water_9",0.00298476278597758,NA,NA,9,NA,"Water_9","Archaea","Other","Nanoarchaeia","Woesearchaeales","Woesearchaeales_X","Below Threshold",0.00362888702464164,0,0
+"858","ASV_94","Water_35",1.40558485716581,NA,NA,35,NA,"Water_35","Bacteria","Other","Verrucomicrobiae","Verrucomicrobiales","Rubritaleaceae","Below Threshold",NA,0.0230878540065166,0
+"859","ASV_94","Water_60",0.155355812368225,NA,NA,60,NA,"Water_60","Bacteria","Other","Verrucomicrobiae","Verrucomicrobiales","Rubritaleaceae","Below Threshold",0.0617951272050829,0,0
+"860","ASV_94","Water_9",0.0343247720387422,NA,NA,9,NA,"Water_9","Bacteria","Other","Verrucomicrobiae","Verrucomicrobiales","Rubritaleaceae","Below Threshold",0.00163362045719797,0,0
+"861","ASV_94","Anterior_35",0.012652355446839,NA,NA,35,NA,"Anterior_35","Bacteria","Other","Verrucomicrobiae","Verrucomicrobiales","Rubritaleaceae","Below Threshold",0.0230878540065166,0,0
+"862","ASV_94","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Verrucomicrobiae","Verrucomicrobiales","Rubritaleaceae","Below Threshold",0.00271502595433635,NA,0
+"863","ASV_950","Water_60",0.0364610580047875,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Gammaproteobacteria_X","Gammaproteobacteria_XX","Below Threshold",0.0152194612999821,0,0
+"864","ASV_96","Water_60",0.943231717949937,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",1.14828577497129,0,0
+"865","ASV_96","Water_35",0.00803191346951889,NA,NA,35,NA,"Water_35","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",NA,0,0
+"866","ASV_96","Precipitates_60",0.0017637928601665,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.00239196330034505,0,0
+"867","ASV_96","Fluid_9",0.001362305020094,NA,NA,9,NA,"Fluid_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Cryomorphaceae","Below Threshold",0.00194951973388359,0,0
+"868","ASV_97","Water_9",0.844687868431656,NA,NA,9,NA,"Water_9","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.467555933970144,0,0
+"869","ASV_97","Water_60",0.003170526783025,NA,NA,60,NA,"Water_60","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",0.00278215935706599,0,0
+"870","ASV_97","Water_35",0.00267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Alphaproteobacteria","Rhodobacterales","Rhodobacteraceae","Below Threshold",NA,0,0
+"871","ASV_980","Water_35",0.0267730448983963,NA,NA,35,NA,"Water_35","Bacteria","Other","Margulisbacteria_X","Margulisbacteria_XX","Margulisbacteria_XXX","Below Threshold",NA,0,0
+"872","ASV_980","Water_60",0.0047557901745375,NA,NA,60,NA,"Water_60","Bacteria","Other","Margulisbacteria_X","Margulisbacteria_XX","Margulisbacteria_XXX","Below Threshold",0.00856052393401313,0,0
+"873","ASV_980","Precipitates_60",0.000881896430083251,NA,NA,60,NA,"Precipitates_60","Bacteria","Other","Margulisbacteria_X","Margulisbacteria_XX","Margulisbacteria_XXX","Below Threshold",0.00271502595433635,0,0
+"874","ASV_981","Fluid_60",0.531914893617021,NA,NA,60,NA,"Fluid_60","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Comamonadaceae","Below Threshold",NA,0,0
+"875","ASV_981","Posterior_60",0.160146419583619,NA,NA,60,NA,"Posterior_60","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Comamonadaceae","Below Threshold",0.135710271468347,0.0240813459516007,0
+"876","ASV_981","Posterior_9",0.0907558667185272,NA,NA,9,NA,"Posterior_9","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Comamonadaceae","Below Threshold",0.610326444920571,0,0
+"877","ASV_981","Anterior_60",0.0285659874309655,NA,NA,60,NA,"Anterior_60","Bacteria","Other","Gammaproteobacteria","Burkholderiales","Comamonadaceae","Below Threshold",0.0240813459516007,0,0
+"878","ASV_983","Water_60",0.0332905312217625,NA,NA,60,NA,"Water_60","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.0179142304424468,0,0
+"879","ASV_983","Water_9",0.00447714417896638,NA,NA,9,NA,"Water_9","Bacteria","Other","Bacteroidia","Flavobacteriales","Flavobacteriaceae","Below Threshold",0.00110674841290478,0,0
+"880","ASV_984","Water_60",0.022193687481175,NA,NA,60,NA,"Water_60","Bacteria","Other","Campylobacteria","Campylobacterales","Arcobacteraceae","Below Threshold",0.0119357569799142,0,0
+"881","ASV_99","Water_9",0.782007849926127,NA,NA,9,NA,"Water_9","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.150723459054542,0,0
+"882","ASV_99","Water_60",0.0380463213963,NA,NA,60,NA,"Water_60","Bacteria","Other","Gammaproteobacteria","Pseudomonadales","Halieaceae","Below Threshold",0.026474687534824,0,0
