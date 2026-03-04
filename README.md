@@ -40,6 +40,9 @@ microbiome/
 - Gene-based transcriptome datasets organized for phylogenomic analyses
 - Subfolders include SGT and hmm analysis and search for urease genes
 
+### Underlying Data
+All underlying data for the figures can be found in this directory.
+
 
 ## 📧 Contact
 
