@@ -3,7 +3,7 @@
 # Microbial contribution to Ichthyocarbonate production in the Gulf Toadfish
 
 Welcome! 🎉  
-This repository contains code, data, and outputs for Bonacolta et al. 2025 - Symbiotic bacteria enable calcium carbonate precipitation in the Gulf toadfish (*Opsanus beta*)
+This repository contains code, data, and outputs for Bonacolta et al. 2026 - Symbiotic bacteria enable calcium carbonate precipitation in the Gulf toadfish (*Opsanus beta*)
 
 ---
 
